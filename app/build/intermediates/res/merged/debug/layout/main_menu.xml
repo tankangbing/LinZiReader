@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.hn.linzi.views.PercentLinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                                        xmlns:tools="http://schemas.android.com/tools"
+                                        xmlns:app="http://schemas.android.com/apk/res-auto"
+                                        android:layout_width="match_parent"
+                                        android:layout_height="match_parent"
+                                        android:layout_gravity="center"
+                                        android:id="@+id/activity_bg"
+                                        android:orientation="vertical"
+                                        tools:context="com.hn.linzi.activity.MainMenuActivity" >
+
+    <com.hn.linzi.views.PercentRelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        app:layout_heightPercent="7.8%h"
+        android:background="@drawable/daohanglan2" >
+
+        <TextView
+            android:id="@+id/daohanglan"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_centerVertical="true"
+            android:text="智泉教育"
+            android:textColor="#FFFFFF"
+            android:textSize="20sp" />
+
+        <Button
+            android:id="@+id/main_menu_list_set"
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="20dp"
+            android:background="@drawable/mm_setting" />
+    </com.hn.linzi.views.PercentRelativeLayout>
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        app:layout_heightPercent="92.2%h" >
+
+        <!--       <com.wr.reader.views.PercentLinearLayout
+                  android:layout_width="match_parent"
+                  android:layout_height="wrap_content"
+                  android:orientation="vertical" >
+
+                  <com.wr.reader.views.PercentLinearLayout
+                      android:layout_width="match_parent"
+                      android:layout_height="0dp"
+                      app:layout_heightPercent="26.8%w"
+                      app:layout_marginTopPercent="5.1%w"
+                      android:orientation="horizontal" >
+
+                      <ImageButton
+                          android:id="@+id/menu_Btn1"
+                          android:layout_width="0dp"
+                          android:layout_height="match_parent"
+                          app:layout_marginLeftPercent="5.1%w"
+                          app:layout_widthPercent="39%w"
+                          android:src="@drawable/mm_shujia"
+                          android:scaleType="fitXY"
+                          android:background="@android:color/transparent" >
+                      </ImageButton>
+
+                      <ImageButton
+                          android:id="@+id/menu_Btn2"
+                          android:layout_width="0dp"
+                          android:layout_height="match_parent"
+                          app:layout_marginLeftPercent="4.3%w"
+                          app:layout_widthPercent="46.4%w"
+                          android:src="@drawable/mm_kecheng"
+                          android:scaleType="fitXY"
+                          android:background="@android:color/transparent" >
+                      </ImageButton>
+                  </com.wr.reader.views.PercentLinearLayout>
+
+                  <com.wr.reader.views.PercentLinearLayout
+                      android:layout_width="match_parent"
+                      android:layout_height="0dp"
+                      app:layout_heightPercent="26.8%w"
+                      app:layout_marginTopPercent="5.1%w"
+                      android:orientation="horizontal" >
+
+                      <ImageButton
+                          android:id="@+id/menu_Btn4"
+                          android:layout_width="0dp"
+                          android:layout_height="match_parent"
+                          app:layout_marginLeftPercent="5.1%w"
+                          app:layout_widthPercent="39%w"
+                          android:src="@drawable/mm_zhichang"
+                          android:scaleType="fitXY"
+                          android:background="@android:color/transparent" >
+                      </ImageButton>
+
+                      <ImageButton
+                          android:id="@+id/menu_Btn3"
+                          android:layout_width="0dp"
+                          android:layout_height="match_parent"
+                          app:layout_marginLeftPercent="4.3%w"
+                          app:layout_widthPercent="46.4%w"
+                          android:src="@drawable/mm_ziliaojia"
+                          android:scaleType="fitXY"
+                          android:background="@android:color/transparent" >
+                      </ImageButton>
+                  </com.wr.reader.views.PercentLinearLayout>
+
+                  <com.wr.reader.views.PercentLinearLayout
+                      android:layout_width="match_parent"
+                      android:layout_height="0dp"
+                      app:layout_heightPercent="47.3%w"
+                      app:layout_marginTopPercent="5.1%w"
+                      android:orientation="horizontal" >
+
+                      <ImageButton
+                          android:id="@+id/menu_Btn9"
+                          android:layout_width="0dp"
+                          android:layout_height="match_parent"
+                          app:layout_marginLeftPercent="5.1%w"
+                          app:layout_widthPercent="27.2%w"
+                          android:src="@drawable/mm_huodong"
+                          android:scaleType="fitXY"
+                          android:background="@android:color/transparent" >
+                      </ImageButton>
+
+                       <com.wr.reader.views.PercentLinearLayout
+                          android:layout_width="0dp"
+                          android:layout_height="match_parent"
+                          app:layout_widthPercent="58%w"
+                          app:layout_marginLeftPercent="4.6%w"
+                          android:orientation="vertical" >
+
+                           <ImageButton
+                              android:id="@+id/menu_Btn8"
+                              android:layout_width="match_parent"
+                              android:layout_height="0dp"
+                              app:layout_heightPercent="44.7%h"
+                              android:src="@drawable/mm_gongkai"
+                              android:scaleType="fitXY"
+                              android:background="@android:color/transparent" >
+                          </ImageButton>
+
+                          <ImageButton
+                              android:id="@+id/menu_Btn7"
+                              android:layout_width="match_parent"
+                              android:layout_height="0dp"
+                              app:layout_heightPercent="44.7%h"
+                              app:layout_marginTopPercent="10.5%h"
+                              android:src="@drawable/mm_zhongwai"
+                              android:scaleType="fitXY"
+                              android:background="@android:color/transparent" >
+                          </ImageButton>
+                      </com.wr.reader.views.PercentLinearLayout>
+                  </com.wr.reader.views.PercentLinearLayout>
+
+                  <com.wr.reader.views.PercentLinearLayout
+                      android:layout_width="match_parent"
+                      android:layout_height="0dp"
+                      app:layout_heightPercent="26.8%w"
+                      app:layout_marginTopPercent="5.1%w"
+                      android:orientation="horizontal" >
+
+                      <ImageButton
+                          android:id="@+id/menu_Btn5"
+                          android:layout_width="0dp"
+                          android:layout_height="match_parent"
+                          app:layout_marginLeftPercent="5.1%w"
+                          app:layout_widthPercent="39%w"
+                          android:src="@drawable/mm_yaoyiyao"
+                          android:scaleType="fitXY"
+                          android:background="@android:color/transparent" >
+                      </ImageButton>
+
+                      <ImageButton
+                          android:id="@+id/menu_Btn6"
+                          android:layout_width="0dp"
+                          android:layout_height="match_parent"
+                          app:layout_marginLeftPercent="4.3%w"
+                          app:layout_widthPercent="46.4%w"
+                          android:src="@drawable/mm_saoyisao"
+                          android:scaleType="fitXY"
+                          android:background="@android:color/transparent" >
+                      </ImageButton>
+                  </com.wr.reader.views.PercentLinearLayout>
+              </com.wr.reader.views.PercentLinearLayout>  -->
+
+        <com.hn.linzi.views.NoScrollGridView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/mm_gridview"
+            android:numColumns="2" >
+        </com.hn.linzi.views.NoScrollGridView>
+    </ScrollView>
+    <com.baidu.mapapi.map.MapView
+        android:id="@+id/bmap_shinei"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:clickable="true"/>
+</com.hn.linzi.views.PercentLinearLayout>

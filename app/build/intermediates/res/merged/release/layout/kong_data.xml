@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:id="@+id/activity_bg" >
+    
+    <RelativeLayout
+        android:id="@+id/rela4"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="78"
+        android:background="@drawable/daohanglan" >
+
+        <TextView
+            android:id="@+id/daohanglan"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_centerVertical="true"
+            android:textColor="#FFFFFF"
+            android:textSize="20sp" />
+
+        <Button
+            android:id="@+id/claasicbook_back2"
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:layout_alignParentLeft="true"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="20dp"
+            android:background="@drawable/fanhui" />
+    </RelativeLayout>
+    
+    
+	<LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="922"
+        android:orientation="vertical"
+        android:gravity="center" >
+        
+	    <ImageView
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:src="@drawable/kongdata_bg" />
+	    <TextView
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:layout_marginTop="30dp"
+	        android:text="这里暂时还没有内容哦"
+	        android:textColor="#FFFFFF"
+	        android:textSize="24sp" />
+	    <TextView
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:text="请先到其他地方浏览吧"
+	        android:textColor="#FFFFFF"
+	        android:textSize="24sp" />
+    </LinearLayout>
+</LinearLayout>

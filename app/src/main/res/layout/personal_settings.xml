@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/activity_bg"
+    android:orientation="vertical" >
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical" >
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="78"
+                android:background="@drawable/daohanglan" >
+
+                <TextView
+                    android:id="@+id/daohanglan"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerHorizontal="true"
+                    android:layout_centerVertical="true"
+                    android:textColor="#FFFFFF"
+                    android:textSize="20sp" />
+
+                <Button
+                    android:id="@+id/personal_back"
+                    android:layout_width="35dp"
+                    android:layout_height="35dp"
+                    android:layout_alignParentLeft="true"
+                    android:layout_centerVertical="true"
+                    android:layout_marginLeft="10dp"
+                    android:background="@drawable/fanhui" />
+            </RelativeLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="922"
+                android:orientation="vertical" >
+
+                <LinearLayout
+                    android:id="@+id/personal_zhanghao"
+                    android:layout_width="match_parent"
+                    android:layout_height="80dp"
+                    android:layout_marginTop="20dp"
+                    android:orientation="vertical" >
+
+                    <Button
+                        android:id="@+id/personal_nowUser"
+                        android:layout_width="match_parent"
+                        android:layout_height="0dp"
+                        android:layout_weight="1"
+                        android:background="@drawable/xx_itembg"
+                        android:gravity="center"
+                        android:textColor="#FFFFFF" />
+
+                    <Button
+                        android:id="@+id/personal_swapUser"
+                        android:layout_width="match_parent"
+                        android:layout_height="0dp"
+                        android:layout_marginTop="2dp"
+                        android:layout_weight="1"
+                        android:background="@drawable/xx_itembg"
+                        android:gravity="center"
+                        android:text="切换账号"
+                        android:textColor="#FFFFFF" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="80dp"
+                    android:layout_marginTop="20dp"
+                    android:orientation="vertical" >
+
+                    <Button
+                        android:id="@+id/personal_jiancha"
+                        android:layout_width="match_parent"
+                        android:layout_height="0dp"
+                        android:layout_weight="1"
+                        android:background="@drawable/xx_itembg"
+                        android:gravity="center"
+                        android:text="检测新版本"
+                        android:textColor="#FFFFFF" />
+
+                    <Button
+                        android:id="@+id/personal_dlmanage"
+                        android:layout_width="match_parent"
+                        android:layout_height="0dp"
+                        android:layout_marginTop="2dp"
+                        android:layout_weight="1"
+                        android:background="@drawable/xx_itembg"
+                        android:gravity="center"
+                        android:text="下载管理"
+                        android:textColor="#FFFFFF" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="80dp"
+                    android:layout_marginTop="20dp"
+                    android:orientation="vertical" >
+
+                    <Button
+                        android:id="@+id/personal_CustomMenu"
+                        android:layout_width="match_parent"
+                        android:layout_height="0dp"
+                        android:layout_weight="1"
+                        android:background="@drawable/xx_itembg"
+                        android:gravity="center"
+                        android:text="自定义主页功能"
+                        android:textColor="#FFFFFF" />
+
+                    <Button
+                        android:id="@+id/personal_ChangeBG"
+                        android:layout_width="match_parent"
+                        android:layout_height="0dp"
+                        android:layout_marginTop="2dp"
+                        android:layout_weight="1"
+                        android:background="@drawable/xx_itembg"
+                        android:gravity="center"
+                        android:text="更换皮肤"
+                        android:textColor="#FFFFFF" />
+                </LinearLayout>
+
+                <!--<LinearLayout-->
+                    <!--android:layout_width="match_parent"-->
+                    <!--android:layout_height="40dp"-->
+                    <!--android:layout_marginTop="20dp"-->
+                    <!--android:orientation="vertical" >-->
+
+                    <!--<Button-->
+                        <!--android:id="@+id/personal_about"-->
+                        <!--android:layout_width="match_parent"-->
+                        <!--android:layout_height="0dp"-->
+                        <!--android:layout_weight="1"-->
+                        <!--android:background="@drawable/xx_itembg"-->
+                        <!--android:gravity="center"-->
+                        <!--android:text="关于"-->
+                        <!--android:textColor="#FFFFFF" />-->
+                <!--</LinearLayout>-->
+            </LinearLayout>
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>

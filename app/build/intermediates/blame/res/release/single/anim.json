@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "E:\\code\\hn\\LinZiReader\\app\\build\\intermediates\\res\\merged\\release\\anim\\trans_in.xml",
+        "source": "E:\\code\\hn\\LinZiReader\\app\\src\\main\\res\\anim\\trans_in.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\LinZiReader\\app\\build\\intermediates\\res\\merged\\release\\anim\\my_scale_action.xml",
+        "source": "E:\\code\\hn\\LinZiReader\\app\\src\\main\\res\\anim\\my_scale_action.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\LinZiReader\\app\\build\\intermediates\\res\\merged\\release\\anim\\shake.xml",
+        "source": "E:\\code\\hn\\LinZiReader\\app\\src\\main\\res\\anim\\shake.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\LinZiReader\\app\\build\\intermediates\\res\\merged\\release\\anim\\scale_anim_out.xml",
+        "source": "E:\\code\\hn\\LinZiReader\\app\\src\\main\\res\\anim\\scale_anim_out.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\LinZiReader\\app\\build\\intermediates\\res\\merged\\release\\anim\\my_alpha_action.xml",
+        "source": "E:\\code\\hn\\LinZiReader\\app\\src\\main\\res\\anim\\my_alpha_action.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\LinZiReader\\app\\build\\intermediates\\res\\merged\\release\\anim\\cycle.xml",
+        "source": "E:\\code\\hn\\LinZiReader\\app\\src\\main\\res\\anim\\cycle.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\LinZiReader\\app\\build\\intermediates\\res\\merged\\release\\anim\\scale_anim.xml",
+        "source": "E:\\code\\hn\\LinZiReader\\app\\src\\main\\res\\anim\\scale_anim.xml"
+    }
+]

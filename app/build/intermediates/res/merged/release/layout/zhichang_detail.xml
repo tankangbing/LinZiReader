@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.hn.linzi.views.PercentLinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                                        xmlns:tools="http://schemas.android.com/tools"
+                                        xmlns:app="http://schemas.android.com/apk/res-auto"
+                                        android:layout_width="match_parent"
+                                        android:layout_height="match_parent"
+                                        android:layout_gravity="center"
+                                        android:id="@+id/activity_bg"
+                                        android:orientation="vertical" >
+
+    <com.hn.linzi.views.PercentRelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        app:layout_heightPercent="7.8%h"
+        android:background="@drawable/daohanglan2" >
+
+        <TextView
+            android:id="@+id/daohanglan"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_centerVertical="true"
+            android:text="招聘详情"
+            android:textColor="#FFFFFF"
+            android:textSize="20sp" />
+
+        <Button
+            android:id="@+id/zhichang_detail_back"
+            android:layout_width="35dp"
+            android:layout_height="35dp"
+            android:layout_alignParentLeft="true"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="10dp"
+            android:background="@drawable/fanhui" />
+    </com.hn.linzi.views.PercentRelativeLayout>
+
+    <ScrollView
+        android:id="@+id/zhichang_detail_scrollview"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        app:layout_heightPercent="92.2%h" >
+
+        <com.hn.linzi.views.PercentLinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+            <com.hn.linzi.views.PercentLinearLayout
+                android:layout_width="0dp"
+                android:layout_height="0dp"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginTop="54px"
+                app:layout_heightPercent="30.7%w"
+                app:layout_widthPercent="91.6%w"
+                android:orientation="horizontal" >
+                
+                <com.hn.linzi.views.RoundImageView
+                    android:id="@+id/zhichang_detail_fengmian"
+                    android:layout_width="0dp"
+                    android:layout_height="0dp"
+                    app:layout_heightPercent="100%h"
+                    app:layout_widthPercent="100%h"
+                    android:scaleType="fitXY"
+                    app:borderRadius="5dp"
+                    app:type="round" />
+
+                <com.hn.linzi.views.PercentLinearLayout
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:orientation="vertical"
+                    app:layout_widthPercent="66.5%w"
+                    android:paddingLeft="55px" >
+
+                    <com.hn.linzi.views.MarqueeTextView
+                        android:id="@+id/zhichang_detail_title"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:ellipsize="marquee"
+                        android:marqueeRepeatLimit="marquee_forever"
+                        android:singleLine="true"
+                        android:text="XXXX兼职"
+                        android:textColor="#FFFFFF"
+                        app:layout_textSizePercent="15.8%h" />
+
+                    <LinearLayout
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="10px"
+                        android:orientation="horizontal" >
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="薪资:"
+                            android:textColor="#FFFFFF"
+                            android:textSize="13sp" />
+
+                        <TextView
+                            android:id="@+id/zhichang_detail_pay"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:ellipsize="end"
+                            android:singleLine="true"
+                            android:text="￥2500-3000"
+                            android:textColor="#FCD143"
+                            android:textSize="13sp" />
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="/月"
+                            android:textColor="#FFFFFF"
+                            android:textSize="13sp" />
+                    </LinearLayout>
+
+                    <TextView
+                        android:id="@+id/zhichang_detail_companyname"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="10px"
+                        android:text="单位名称"
+                        android:textSize="13sp"
+                        android:textColor="#FFFFFF" />
+                    
+                    <TextView 
+                        android:layout_width="match_parent"
+                        android:layout_height="1px"
+                        android:layout_marginTop="4px"
+                        android:background="#33FFFFFF"/>
+
+                    <LinearLayout
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="4px"
+                        android:orientation="horizontal"
+                        android:gravity="center_vertical" >
+
+                        <ImageView 
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:src="@drawable/peoplenum"/>
+                        
+                        <TextView
+                            android:id="@+id/zhichang_detail_peopleNum"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:singleLine="true"
+                            android:layout_marginLeft="33px"
+                            android:text="5人"
+                            android:textSize="13sp"
+                            android:textColor="#FFFFFF" />
+                        
+                        <TextView 
+                            android:layout_width="1px"
+                            android:layout_height="match_parent"
+                            android:background="#33FFFFFF"
+                            android:layout_marginLeft="30px" />
+                        
+                        <ImageView 
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_marginLeft="30px"
+                            android:src="@drawable/calendar"/>
+
+                        <TextView
+                            android:id="@+id/zhichang_detail_time"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_marginLeft="30px"
+                            android:singleLine="true"
+                            android:text="2016.3.31"
+                            android:textSize="13sp"
+                            android:textColor="#FFFFFF" />
+                    </LinearLayout>
+
+                    <ImageButton
+                        android:id="@+id/zhichang_detail_signup"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="10px"
+                        android:background="@drawable/shoucangzhiwei" />
+                </com.hn.linzi.views.PercentLinearLayout>
+            </com.hn.linzi.views.PercentLinearLayout>
+            
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center_horizontal"
+                android:orientation="horizontal"
+                android:weightSum="720" >
+
+                <RelativeLayout
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="15dp"
+                    android:layout_weight="660" >
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_alignParentLeft="true"
+                        android:layout_centerVertical="true"
+                        android:text="招聘要求/单位简介"
+                        android:paddingLeft="10dp"
+                        android:paddingRight="10dp"
+                        android:paddingTop="2dp"
+                        android:paddingBottom="2dp"
+                        android:textColor="#FFFFFF"
+                        android:background="@drawable/huodong_green_tag" />
+                </RelativeLayout>
+            </LinearLayout>
+            
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:gravity="center_horizontal"
+                android:orientation="horizontal"
+                android:weightSum="720" >
+
+                <RelativeLayout
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_marginTop="5dp"
+                    android:padding="30px"
+                    android:background="@drawable/jieshaobg"
+                    android:layout_weight="660" >
+
+                    <TextView
+                        android:id="@+id/zhichang_detail_detail"
+                        android:layout_width="wrap_content"
+                        android:layout_height="match_parent"
+                        android:textColor="#FFFFFF" />
+                </RelativeLayout>
+            </LinearLayout>
+        </com.hn.linzi.views.PercentLinearLayout>
+    </ScrollView>
+
+</com.hn.linzi.views.PercentLinearLayout>

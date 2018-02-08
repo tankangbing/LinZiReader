@@ -1,0 +1,37 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="200dp"
+    android:layout_gravity="top"
+    android:layout_margin="0dp"
+    android:background="#333333"
+    tools:context="${relativePackage}.${activityClass}" >
+
+   <TableLayout
+        android:id="@+id/menu_bottom_table1" 
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" 
+        android:stretchColumns="1" 
+        android:layout_marginTop="20dp"      
+        >
+		<TableRow       
+		    android:id="@+id/tr1"     
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation= "horizontal"
+    		android:gravity="center_vertical"
+    		 >
+    		 
+            <ImageView android:src="@drawable/arrow_l_nor" android:layout_height="20dp"/>
+	        <SeekBar
+		         android:id="@+id/seekBar1"
+		         android:layout_width="wrap_content"
+		         android:layout_height="wrap_content"
+	         />
+	        <ImageView android:src="@drawable/arrow_r_nor" android:layout_height="20dp"/>
+        </TableRow>
+    </TableLayout>
+
+   
+
+</RelativeLayout>

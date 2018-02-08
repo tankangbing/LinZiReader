@@ -1,0 +1,654 @@
+[
+    {
+        "merged": "E:\\code\\hn\\LinZiReader\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\index__icon_measuring.png",
+        "source": "E:\\code\\hn\\LinZiReader\\app\\src\\main\\res\\drawable-hdpi\\index__icon_measuring.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\LinZiReader\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\btn_style_one_pressed.9.png",
+        "source": "E:\\code\\hn\\LinZiReader\\app\\src\\main\\res\\drawable-hdpi\\btn_style_one_pressed.9.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\LinZiReader\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\book_icon.png",
+        "source": "E:\\code\\hn\\LinZiReader\\app\\src\\main\\res\\drawable-hdpi\\book_icon.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\LinZiReader\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\mm_title_back_pressed.9.png",
+        "source": "E:\\code\\hn\\LinZiReader\\app\\src\\main\\res\\drawable-hdpi\\mm_title_back_pressed.9.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\LinZiReader\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\iconfont_renshu.png",
+        "source": "E:\\code\\hn\\LinZiReader\\app\\src\\main\\res\\drawable-hdpi\\iconfont_renshu.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\LinZiReader\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\check.png",
+        "source": "E:\\code\\hn\\LinZiReader\\app\\src\\main\\res\\drawable-hdpi\\check.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\LinZiReader\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\yidu_xi.png",
+        "source": "E:\\code\\hn\\LinZiReader\\app\\src\\main\\res\\drawable-hdpi\\yidu_xi.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\LinZiReader\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\yixiazai.png",
+        "source": "E:\\code\\hn\\LinZiReader\\app\\src\\main\\res\\drawable-hdpi\\yixiazai.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\LinZiReader\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\mm_xueyaji.png",
+        "source": "E:\\code\\hn\\LinZiReader\\app\\src\\main\\res\\drawable-hdpi\\mm_xueyaji.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\LinZiReader\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\iconfont_biaoqian.png",
+        "source": "E:\\code\\hn\\LinZiReader\\app\\src\\main\\res\\drawable-hdpi\\iconfont_biaoqian.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\LinZiReader\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\sj_nobook.png",
+        "source": "E:\\code\\hn\\LinZiReader\\app\\src\\main\\res\\drawable-hdpi\\sj_nobook.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\LinZiReader\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\jiahao.png",
+        "source": "E:\\code\\hn\\LinZiReader\\app\\src\\main\\res\\drawable-hdpi\\jiahao.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\LinZiReader\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\fanhui.png",
+        "source": "E:\\code\\hn\\LinZiReader\\app\\src\\main\\res\\drawable-hdpi\\fanhui.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\LinZiReader\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\calendar.png",
+        "source": "E:\\code\\hn\\LinZiReader\\app\\src\\main\\res\\drawable-hdpi\\calendar.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\LinZiReader\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\daohanglan2.png",
+        "source": "E:\\code\\hn\\LinZiReader\\app\\src\\main\\res\\drawable-hdpi\\daohanglan2.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\LinZiReader\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\btn_style_one_normal.9.png",
+        "source": "E:\\code\\hn\\LinZiReader\\app\\src\\main\\res\\drawable-hdpi\\btn_style_one_normal.9.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\LinZiReader\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\drawer_arrow_down.png",
+        "source": "E:\\code\\hn\\LinZiReader\\app\\src\\main\\res\\drawable-hdpi\\drawer_arrow_down.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\LinZiReader\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\erweima_waikuang.png",
+        "source": "E:\\code\\hn\\LinZiReader\\app\\src\\main\\res\\drawable-hdpi\\erweima_waikuang.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\LinZiReader\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\mm_yaoyiyao.png",
+        "source": "E:\\code\\hn\\LinZiReader\\app\\src\\main\\res\\drawable-hdpi\\mm_yaoyiyao.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\LinZiReader\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\mm_zazhi.png",
+        "source": "E:\\code\\hn\\LinZiReader\\app\\src\\main\\res\\drawable-hdpi\\mm_zazhi.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\LinZiReader\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\delete2.png",
+        "source": "E:\\code\\hn\\LinZiReader\\app\\src\\main\\res\\drawable-hdpi\\delete2.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\LinZiReader\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\mm_bg0.png",
+        "source": "E:\\code\\hn\\LinZiReader\\app\\src\\main\\res\\drawable-hdpi\\mm_bg0.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\LinZiReader\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\zanting_icon.png",
+        "source": "E:\\code\\hn\\LinZiReader\\app\\src\\main\\res\\drawable-hdpi\\zanting_icon.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\LinZiReader\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\daipingjia.png",
+        "source": "E:\\code\\hn\\LinZiReader\\app\\src\\main\\res\\drawable-hdpi\\daipingjia.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\LinZiReader\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\zhankai.png",
+        "source": "E:\\code\\hn\\LinZiReader\\app\\src\\main\\res\\drawable-hdpi\\zhankai.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\LinZiReader\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\index__icon_chart.png",
+        "source": "E:\\code\\hn\\LinZiReader\\app\\src\\main\\res\\drawable-hdpi\\index__icon_chart.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\LinZiReader\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\yishixiao.png",
+        "source": "E:\\code\\hn\\LinZiReader\\app\\src\\main\\res\\drawable-hdpi\\yishixiao.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\LinZiReader\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\shouhui.png",
+        "source": "E:\\code\\hn\\LinZiReader\\app\\src\\main\\res\\drawable-hdpi\\shouhui.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\LinZiReader\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\sc_sousuo.png",
+        "source": "E:\\code\\hn\\LinZiReader\\app\\src\\main\\res\\drawable-hdpi\\sc_sousuo.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\LinZiReader\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\huodongneirongbg.png",
+        "source": "E:\\code\\hn\\LinZiReader\\app\\src\\main\\res\\drawable-hdpi\\huodongneirongbg.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\LinZiReader\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\kc_bg.png",
+        "source": "E:\\code\\hn\\LinZiReader\\app\\src\\main\\res\\drawable-hdpi\\kc_bg.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\LinZiReader\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\mm_zhichang.png",
+        "source": "E:\\code\\hn\\LinZiReader\\app\\src\\main\\res\\drawable-hdpi\\mm_zhichang.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\LinZiReader\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\sc_btnbg1.png",
+        "source": "E:\\code\\hn\\LinZiReader\\app\\src\\main\\res\\drawable-hdpi\\sc_btnbg1.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\LinZiReader\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\mm_bg2.png",
+        "source": "E:\\code\\hn\\LinZiReader\\app\\src\\main\\res\\drawable-hdpi\\mm_bg2.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\LinZiReader\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\btn_login.png",
+        "source": "E:\\code\\hn\\LinZiReader\\app\\src\\main\\res\\drawable-hdpi\\btn_login.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\LinZiReader\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\shoucang.png",
+        "source": "E:\\code\\hn\\LinZiReader\\app\\src\\main\\res\\drawable-hdpi\\shoucang.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\LinZiReader\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\mm_title_back_focused.9.png",
+        "source": "E:\\code\\hn\\LinZiReader\\app\\src\\main\\res\\drawable-hdpi\\mm_title_back_focused.9.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\LinZiReader\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\btn_style_two_pressed.9.png",
+        "source": "E:\\code\\hn\\LinZiReader\\app\\src\\main\\res\\drawable-hdpi\\btn_style_two_pressed.9.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\LinZiReader\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\zhaopin.png",
+        "source": "E:\\code\\hn\\LinZiReader\\app\\src\\main\\res\\drawable-hdpi\\zhaopin.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\LinZiReader\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\jianzhi.png",
+        "source": "E:\\code\\hn\\LinZiReader\\app\\src\\main\\res\\drawable-hdpi\\jianzhi.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\LinZiReader\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\mm_title_back_normal.9.png",
+        "source": "E:\\code\\hn\\LinZiReader\\app\\src\\main\\res\\drawable-hdpi\\mm_title_back_normal.9.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\LinZiReader\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\main_dikuang.png",
+        "source": "E:\\code\\hn\\LinZiReader\\app\\src\\main\\res\\drawable-hdpi\\main_dikuang.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\LinZiReader\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\sc_dianzi.png",
+        "source": "E:\\code\\hn\\LinZiReader\\app\\src\\main\\res\\drawable-hdpi\\sc_dianzi.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\LinZiReader\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\stop.png",
+        "source": "E:\\code\\hn\\LinZiReader\\app\\src\\main\\res\\drawable-hdpi\\stop.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\LinZiReader\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\mm_kecheng.png",
+        "source": "E:\\code\\hn\\LinZiReader\\app\\src\\main\\res\\drawable-hdpi\\mm_kecheng.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\LinZiReader\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\iconfont_shijian.png",
+        "source": "E:\\code\\hn\\LinZiReader\\app\\src\\main\\res\\drawable-hdpi\\iconfont_shijian.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\LinZiReader\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\mm_bg3.png",
+        "source": "E:\\code\\hn\\LinZiReader\\app\\src\\main\\res\\drawable-hdpi\\mm_bg3.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\LinZiReader\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\kc_mingzibg.png",
+        "source": "E:\\code\\hn\\LinZiReader\\app\\src\\main\\res\\drawable-hdpi\\kc_mingzibg.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\LinZiReader\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\sp_icon.png",
+        "source": "E:\\code\\hn\\LinZiReader\\app\\src\\main\\res\\drawable-hdpi\\sp_icon.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\LinZiReader\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\kc_tips2.png",
+        "source": "E:\\code\\hn\\LinZiReader\\app\\src\\main\\res\\drawable-hdpi\\kc_tips2.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\LinZiReader\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\about_erweima.png",
+        "source": "E:\\code\\hn\\LinZiReader\\app\\src\\main\\res\\drawable-hdpi\\about_erweima.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\LinZiReader\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\gerenhuodong.png",
+        "source": "E:\\code\\hn\\LinZiReader\\app\\src\\main\\res\\drawable-hdpi\\gerenhuodong.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\LinZiReader\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\mm_ziliaojia.png",
+        "source": "E:\\code\\hn\\LinZiReader\\app\\src\\main\\res\\drawable-hdpi\\mm_ziliaojia.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\LinZiReader\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\dikuang.png",
+        "source": "E:\\code\\hn\\LinZiReader\\app\\src\\main\\res\\drawable-hdpi\\dikuang.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\LinZiReader\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\delete.png",
+        "source": "E:\\code\\hn\\LinZiReader\\app\\src\\main\\res\\drawable-hdpi\\delete.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\LinZiReader\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\kongdata_bg.png",
+        "source": "E:\\code\\hn\\LinZiReader\\app\\src\\main\\res\\drawable-hdpi\\kongdata_bg.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\LinZiReader\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\yidu_jiao.png",
+        "source": "E:\\code\\hn\\LinZiReader\\app\\src\\main\\res\\drawable-hdpi\\yidu_jiao.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\LinZiReader\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\btn_style_one_focused.9.png",
+        "source": "E:\\code\\hn\\LinZiReader\\app\\src\\main\\res\\drawable-hdpi\\btn_style_one_focused.9.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\LinZiReader\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\remain_all.png",
+        "source": "E:\\code\\hn\\LinZiReader\\app\\src\\main\\res\\drawable-hdpi\\remain_all.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\LinZiReader\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\wofaqide.png",
+        "source": "E:\\code\\hn\\LinZiReader\\app\\src\\main\\res\\drawable-hdpi\\wofaqide.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\LinZiReader\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\xindaojiu.png",
+        "source": "E:\\code\\hn\\LinZiReader\\app\\src\\main\\res\\drawable-hdpi\\xindaojiu.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\LinZiReader\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\sc_btnbg3.png",
+        "source": "E:\\code\\hn\\LinZiReader\\app\\src\\main\\res\\drawable-hdpi\\sc_btnbg3.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\LinZiReader\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\yishoucang.png",
+        "source": "E:\\code\\hn\\LinZiReader\\app\\src\\main\\res\\drawable-hdpi\\yishoucang.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\LinZiReader\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\ic_launcher.png",
+        "source": "E:\\code\\hn\\LinZiReader\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\LinZiReader\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\floder_title.png",
+        "source": "E:\\code\\hn\\LinZiReader\\app\\src\\main\\res\\drawable-hdpi\\floder_title.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\LinZiReader\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\kc_tips3.png",
+        "source": "E:\\code\\hn\\LinZiReader\\app\\src\\main\\res\\drawable-hdpi\\kc_tips3.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\LinZiReader\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\pozhe.png",
+        "source": "E:\\code\\hn\\LinZiReader\\app\\src\\main\\res\\drawable-hdpi\\pozhe.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\LinZiReader\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\xx_nodata.png",
+        "source": "E:\\code\\hn\\LinZiReader\\app\\src\\main\\res\\drawable-hdpi\\xx_nodata.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\LinZiReader\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\yiqiandao.png",
+        "source": "E:\\code\\hn\\LinZiReader\\app\\src\\main\\res\\drawable-hdpi\\yiqiandao.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\LinZiReader\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\iconfont_jigou.png",
+        "source": "E:\\code\\hn\\LinZiReader\\app\\src\\main\\res\\drawable-hdpi\\iconfont_jigou.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\LinZiReader\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\weiqiandao.png",
+        "source": "E:\\code\\hn\\LinZiReader\\app\\src\\main\\res\\drawable-hdpi\\weiqiandao.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\LinZiReader\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\logo.png",
+        "source": "E:\\code\\hn\\LinZiReader\\app\\src\\main\\res\\drawable-hdpi\\logo.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\LinZiReader\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\charutupian.png",
+        "source": "E:\\code\\hn\\LinZiReader\\app\\src\\main\\res\\drawable-hdpi\\charutupian.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\LinZiReader\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\baoming.png",
+        "source": "E:\\code\\hn\\LinZiReader\\app\\src\\main\\res\\drawable-hdpi\\baoming.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\LinZiReader\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\mm_saoyisao.png",
+        "source": "E:\\code\\hn\\LinZiReader\\app\\src\\main\\res\\drawable-hdpi\\mm_saoyisao.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\LinZiReader\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\xianzhirenshubg.png",
+        "source": "E:\\code\\hn\\LinZiReader\\app\\src\\main\\res\\drawable-hdpi\\xianzhirenshubg.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\LinZiReader\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\myactivity.png",
+        "source": "E:\\code\\hn\\LinZiReader\\app\\src\\main\\res\\drawable-hdpi\\myactivity.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\LinZiReader\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\jiudaoxin.png",
+        "source": "E:\\code\\hn\\LinZiReader\\app\\src\\main\\res\\drawable-hdpi\\jiudaoxin.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\LinZiReader\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\tijiao.png",
+        "source": "E:\\code\\hn\\LinZiReader\\app\\src\\main\\res\\drawable-hdpi\\tijiao.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\LinZiReader\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\mm_dianzi.png",
+        "source": "E:\\code\\hn\\LinZiReader\\app\\src\\main\\res\\drawable-hdpi\\mm_dianzi.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\LinZiReader\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\kc_manage.png",
+        "source": "E:\\code\\hn\\LinZiReader\\app\\src\\main\\res\\drawable-hdpi\\kc_manage.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\LinZiReader\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\peoplenum.png",
+        "source": "E:\\code\\hn\\LinZiReader\\app\\src\\main\\res\\drawable-hdpi\\peoplenum.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\LinZiReader\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\sj_xiazai.png",
+        "source": "E:\\code\\hn\\LinZiReader\\app\\src\\main\\res\\drawable-hdpi\\sj_xiazai.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\LinZiReader\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\btn_style_two_focused.9.png",
+        "source": "E:\\code\\hn\\LinZiReader\\app\\src\\main\\res\\drawable-hdpi\\btn_style_two_focused.9.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\LinZiReader\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\iconfont_pingjia.png",
+        "source": "E:\\code\\hn\\LinZiReader\\app\\src\\main\\res\\drawable-hdpi\\iconfont_pingjia.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\LinZiReader\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\xiazaizhong.png",
+        "source": "E:\\code\\hn\\LinZiReader\\app\\src\\main\\res\\drawable-hdpi\\xiazaizhong.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\LinZiReader\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\yibaoming.png",
+        "source": "E:\\code\\hn\\LinZiReader\\app\\src\\main\\res\\drawable-hdpi\\yibaoming.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\LinZiReader\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\save_pic.png",
+        "source": "E:\\code\\hn\\LinZiReader\\app\\src\\main\\res\\drawable-hdpi\\save_pic.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\LinZiReader\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\mm_huodong.png",
+        "source": "E:\\code\\hn\\LinZiReader\\app\\src\\main\\res\\drawable-hdpi\\mm_huodong.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\LinZiReader\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\gerenshezhi_biaoti.png",
+        "source": "E:\\code\\hn\\LinZiReader\\app\\src\\main\\res\\drawable-hdpi\\gerenshezhi_biaoti.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\LinZiReader\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\kechengjianjie_biaoti.png",
+        "source": "E:\\code\\hn\\LinZiReader\\app\\src\\main\\res\\drawable-hdpi\\kechengjianjie_biaoti.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\LinZiReader\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\kc_tips5.png",
+        "source": "E:\\code\\hn\\LinZiReader\\app\\src\\main\\res\\drawable-hdpi\\kc_tips5.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\LinZiReader\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\xx_biaoti.png",
+        "source": "E:\\code\\hn\\LinZiReader\\app\\src\\main\\res\\drawable-hdpi\\xx_biaoti.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\LinZiReader\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\confirm_dialog_bg2.9.png",
+        "source": "E:\\code\\hn\\LinZiReader\\app\\src\\main\\res\\drawable-hdpi\\confirm_dialog_bg2.9.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\LinZiReader\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\uncheck.png",
+        "source": "E:\\code\\hn\\LinZiReader\\app\\src\\main\\res\\drawable-hdpi\\uncheck.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\LinZiReader\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\yaoyiyao_bg1.png",
+        "source": "E:\\code\\hn\\LinZiReader\\app\\src\\main\\res\\drawable-hdpi\\yaoyiyao_bg1.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\LinZiReader\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\btn_shoucangkc.png",
+        "source": "E:\\code\\hn\\LinZiReader\\app\\src\\main\\res\\drawable-hdpi\\btn_shoucangkc.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\LinZiReader\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\index__icon_record.png",
+        "source": "E:\\code\\hn\\LinZiReader\\app\\src\\main\\res\\drawable-hdpi\\index__icon_record.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\LinZiReader\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\xiaoyuanhuodong.png",
+        "source": "E:\\code\\hn\\LinZiReader\\app\\src\\main\\res\\drawable-hdpi\\xiaoyuanhuodong.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\LinZiReader\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\btn_style_two_normal.9.png",
+        "source": "E:\\code\\hn\\LinZiReader\\app\\src\\main\\res\\drawable-hdpi\\btn_style_two_normal.9.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\LinZiReader\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\shoucangzhiwei.png",
+        "source": "E:\\code\\hn\\LinZiReader\\app\\src\\main\\res\\drawable-hdpi\\shoucangzhiwei.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\LinZiReader\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\zlj_nodata.png",
+        "source": "E:\\code\\hn\\LinZiReader\\app\\src\\main\\res\\drawable-hdpi\\zlj_nodata.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\LinZiReader\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\delete_pic.png",
+        "source": "E:\\code\\hn\\LinZiReader\\app\\src\\main\\res\\drawable-hdpi\\delete_pic.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\LinZiReader\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\mmtitle_bg_alpha.9.png",
+        "source": "E:\\code\\hn\\LinZiReader\\app\\src\\main\\res\\drawable-hdpi\\mmtitle_bg_alpha.9.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\LinZiReader\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\kc_tips6.png",
+        "source": "E:\\code\\hn\\LinZiReader\\app\\src\\main\\res\\drawable-hdpi\\kc_tips6.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\LinZiReader\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\guanyu_biaoti.png",
+        "source": "E:\\code\\hn\\LinZiReader\\app\\src\\main\\res\\drawable-hdpi\\guanyu_biaoti.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\LinZiReader\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\sj_fanhui.png",
+        "source": "E:\\code\\hn\\LinZiReader\\app\\src\\main\\res\\drawable-hdpi\\sj_fanhui.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\LinZiReader\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\edit_input.png",
+        "source": "E:\\code\\hn\\LinZiReader\\app\\src\\main\\res\\drawable-hdpi\\edit_input.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\LinZiReader\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\btn_yixiazaitushu.png",
+        "source": "E:\\code\\hn\\LinZiReader\\app\\src\\main\\res\\drawable-hdpi\\btn_yixiazaitushu.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\LinZiReader\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\mm_ziyuan.png",
+        "source": "E:\\code\\hn\\LinZiReader\\app\\src\\main\\res\\drawable-hdpi\\mm_ziyuan.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\LinZiReader\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\sc_btnbg4.png",
+        "source": "E:\\code\\hn\\LinZiReader\\app\\src\\main\\res\\drawable-hdpi\\sc_btnbg4.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\LinZiReader\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\weidu_xue.png",
+        "source": "E:\\code\\hn\\LinZiReader\\app\\src\\main\\res\\drawable-hdpi\\weidu_xue.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\LinZiReader\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\xlistview_arrow.png",
+        "source": "E:\\code\\hn\\LinZiReader\\app\\src\\main\\res\\drawable-hdpi\\xlistview_arrow.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\LinZiReader\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\yaoyiyao_bg2.png",
+        "source": "E:\\code\\hn\\LinZiReader\\app\\src\\main\\res\\drawable-hdpi\\yaoyiyao_bg2.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\LinZiReader\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\yonghutouxiang.png",
+        "source": "E:\\code\\hn\\LinZiReader\\app\\src\\main\\res\\drawable-hdpi\\yonghutouxiang.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\LinZiReader\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\weidu_jiao.png",
+        "source": "E:\\code\\hn\\LinZiReader\\app\\src\\main\\res\\drawable-hdpi\\weidu_jiao.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\LinZiReader\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\qiandaoerweima.png",
+        "source": "E:\\code\\hn\\LinZiReader\\app\\src\\main\\res\\drawable-hdpi\\qiandaoerweima.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\LinZiReader\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\huodongfengmian.png",
+        "source": "E:\\code\\hn\\LinZiReader\\app\\src\\main\\res\\drawable-hdpi\\huodongfengmian.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\LinZiReader\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\floder_icon.png",
+        "source": "E:\\code\\hn\\LinZiReader\\app\\src\\main\\res\\drawable-hdpi\\floder_icon.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\LinZiReader\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\xx_itembg.png",
+        "source": "E:\\code\\hn\\LinZiReader\\app\\src\\main\\res\\drawable-hdpi\\xx_itembg.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\LinZiReader\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\editbutton.png",
+        "source": "E:\\code\\hn\\LinZiReader\\app\\src\\main\\res\\drawable-hdpi\\editbutton.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\LinZiReader\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\editbg.png",
+        "source": "E:\\code\\hn\\LinZiReader\\app\\src\\main\\res\\drawable-hdpi\\editbg.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\LinZiReader\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\fasongbutton.png",
+        "source": "E:\\code\\hn\\LinZiReader\\app\\src\\main\\res\\drawable-hdpi\\fasongbutton.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\LinZiReader\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\mm_bg5.png",
+        "source": "E:\\code\\hn\\LinZiReader\\app\\src\\main\\res\\drawable-hdpi\\mm_bg5.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\LinZiReader\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\yidu_xue.png",
+        "source": "E:\\code\\hn\\LinZiReader\\app\\src\\main\\res\\drawable-hdpi\\yidu_xue.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\LinZiReader\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\huodongjianjie.png",
+        "source": "E:\\code\\hn\\LinZiReader\\app\\src\\main\\res\\drawable-hdpi\\huodongjianjie.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\LinZiReader\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\remain_hide.png",
+        "source": "E:\\code\\hn\\LinZiReader\\app\\src\\main\\res\\drawable-hdpi\\remain_hide.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\LinZiReader\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\daohanglan.png",
+        "source": "E:\\code\\hn\\LinZiReader\\app\\src\\main\\res\\drawable-hdpi\\daohanglan.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\LinZiReader\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\course_title.png",
+        "source": "E:\\code\\hn\\LinZiReader\\app\\src\\main\\res\\drawable-hdpi\\course_title.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\LinZiReader\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\gongkai.png",
+        "source": "E:\\code\\hn\\LinZiReader\\app\\src\\main\\res\\drawable-hdpi\\gongkai.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\LinZiReader\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\kc_nodata.png",
+        "source": "E:\\code\\hn\\LinZiReader\\app\\src\\main\\res\\drawable-hdpi\\kc_nodata.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\LinZiReader\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\weidu_xi.png",
+        "source": "E:\\code\\hn\\LinZiReader\\app\\src\\main\\res\\drawable-hdpi\\weidu_xi.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\LinZiReader\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\gengxintishi.png",
+        "source": "E:\\code\\hn\\LinZiReader\\app\\src\\main\\res\\drawable-hdpi\\gengxintishi.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\LinZiReader\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\btn_yijingshoucang.png",
+        "source": "E:\\code\\hn\\LinZiReader\\app\\src\\main\\res\\drawable-hdpi\\btn_yijingshoucang.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\LinZiReader\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\jieshaobg.png",
+        "source": "E:\\code\\hn\\LinZiReader\\app\\src\\main\\res\\drawable-hdpi\\jieshaobg.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\LinZiReader\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\no_comment.png",
+        "source": "E:\\code\\hn\\LinZiReader\\app\\src\\main\\res\\drawable-hdpi\\no_comment.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\LinZiReader\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\mm_xiaoxi.png",
+        "source": "E:\\code\\hn\\LinZiReader\\app\\src\\main\\res\\drawable-hdpi\\mm_xiaoxi.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\LinZiReader\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\wocanyude.png",
+        "source": "E:\\code\\hn\\LinZiReader\\app\\src\\main\\res\\drawable-hdpi\\wocanyude.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\LinZiReader\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\jiazaigengduo.png",
+        "source": "E:\\code\\hn\\LinZiReader\\app\\src\\main\\res\\drawable-hdpi\\jiazaigengduo.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\LinZiReader\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\mm_setting.png",
+        "source": "E:\\code\\hn\\LinZiReader\\app\\src\\main\\res\\drawable-hdpi\\mm_setting.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\LinZiReader\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\btn_xiazaitushu.png",
+        "source": "E:\\code\\hn\\LinZiReader\\app\\src\\main\\res\\drawable-hdpi\\btn_xiazaitushu.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\LinZiReader\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\kc_biaoti.png",
+        "source": "E:\\code\\hn\\LinZiReader\\app\\src\\main\\res\\drawable-hdpi\\kc_biaoti.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\LinZiReader\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\mm_bg4.png",
+        "source": "E:\\code\\hn\\LinZiReader\\app\\src\\main\\res\\drawable-hdpi\\mm_bg4.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\LinZiReader\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\yipingjia.png",
+        "source": "E:\\code\\hn\\LinZiReader\\app\\src\\main\\res\\drawable-hdpi\\yipingjia.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\LinZiReader\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\btn_style_one_disabled.9.png",
+        "source": "E:\\code\\hn\\LinZiReader\\app\\src\\main\\res\\drawable-hdpi\\btn_style_one_disabled.9.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\LinZiReader\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\sj_biaoti.png",
+        "source": "E:\\code\\hn\\LinZiReader\\app\\src\\main\\res\\drawable-hdpi\\sj_biaoti.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\LinZiReader\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\sj_bg.png",
+        "source": "E:\\code\\hn\\LinZiReader\\app\\src\\main\\res\\drawable-hdpi\\sj_bg.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\LinZiReader\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\mm_zhongwai.png",
+        "source": "E:\\code\\hn\\LinZiReader\\app\\src\\main\\res\\drawable-hdpi\\mm_zhongwai.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\LinZiReader\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\sc_btnbg2.png",
+        "source": "E:\\code\\hn\\LinZiReader\\app\\src\\main\\res\\drawable-hdpi\\sc_btnbg2.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\LinZiReader\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\mm_bg1.png",
+        "source": "E:\\code\\hn\\LinZiReader\\app\\src\\main\\res\\drawable-hdpi\\mm_bg1.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\LinZiReader\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\lvxian.png",
+        "source": "E:\\code\\hn\\LinZiReader\\app\\src\\main\\res\\drawable-hdpi\\lvxian.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\LinZiReader\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\kc_mulubg.png",
+        "source": "E:\\code\\hn\\LinZiReader\\app\\src\\main\\res\\drawable-hdpi\\kc_mulubg.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\LinZiReader\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\message_title.png",
+        "source": "E:\\code\\hn\\LinZiReader\\app\\src\\main\\res\\drawable-hdpi\\message_title.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\LinZiReader\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\kc_tips4.png",
+        "source": "E:\\code\\hn\\LinZiReader\\app\\src\\main\\res\\drawable-hdpi\\kc_tips4.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\LinZiReader\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\mm_biaoti.png",
+        "source": "E:\\code\\hn\\LinZiReader\\app\\src\\main\\res\\drawable-hdpi\\mm_biaoti.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\LinZiReader\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\backtosjkc.png",
+        "source": "E:\\code\\hn\\LinZiReader\\app\\src\\main\\res\\drawable-hdpi\\backtosjkc.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\LinZiReader\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\kc_tips1.png",
+        "source": "E:\\code\\hn\\LinZiReader\\app\\src\\main\\res\\drawable-hdpi\\kc_tips1.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\LinZiReader\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\mm_shujia.png",
+        "source": "E:\\code\\hn\\LinZiReader\\app\\src\\main\\res\\drawable-hdpi\\mm_shujia.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\LinZiReader\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\begin.png",
+        "source": "E:\\code\\hn\\LinZiReader\\app\\src\\main\\res\\drawable-hdpi\\begin.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\LinZiReader\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\mm_gongkai.png",
+        "source": "E:\\code\\hn\\LinZiReader\\app\\src\\main\\res\\drawable-hdpi\\mm_gongkai.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\LinZiReader\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\kechengmulu.png",
+        "source": "E:\\code\\hn\\LinZiReader\\app\\src\\main\\res\\drawable-hdpi\\kechengmulu.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\LinZiReader\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\xuefenbg.png",
+        "source": "E:\\code\\hn\\LinZiReader\\app\\src\\main\\res\\drawable-hdpi\\xuefenbg.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\LinZiReader\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\yaoyiyao_item_bg.png",
+        "source": "E:\\code\\hn\\LinZiReader\\app\\src\\main\\res\\drawable-hdpi\\yaoyiyao_item_bg.png"
+    }
+]

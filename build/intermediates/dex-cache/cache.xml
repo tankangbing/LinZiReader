@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="E:\code\hn\LinZiReader\app\libs\support-annotations-22.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="E:\code\hn\LinZiReader\app\build\intermediates\pre-dexed\debug\support-annotations-22.2.0_6e68ac3fa0842487916c4ec34deb7b3ee111b57f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\code\hn\LinZiReader\app\libs\umeng-analytics-v5.6.4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="76fed6d2233b958f0c1d589aa366785e0ab5c8f1">
+        <dex dex="E:\code\hn\LinZiReader\app\build\intermediates\pre-dexed\debug\umeng-analytics-v5.6.4_6b471906e8c45d1de7037c3aceb00968c061ae49.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\code\hn\LinZiReader\app\libs\thinkandroid-1.1-bin.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="8e05bea410c813743576590b30bce3e49b2956ae">
+        <dex dex="E:\code\hn\LinZiReader\app\build\intermediates\pre-dexed\debug\thinkandroid-1.1-bin_96d7c3303c3826d5470b057d13cf7ffef585f597.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\code\hn\LinZiReader\app\libs\volley.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4a94601db9bdfb7dc60efabb3dea91a0675f591d">
+        <dex dex="E:\code\hn\LinZiReader\app\build\intermediates\pre-dexed\debug\volley_f35a3711c4a2b5e6c1db7ed54eae0352ab0be14a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\code\hn\LinZiReader\app\libs\chardet-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="f7c063ce9ef5c742bebdd1712be9180d618fb559">
+        <dex dex="E:\code\hn\LinZiReader\app\build\intermediates\pre-dexed\debug\chardet-1.0_b0f6ac164302d4dde9fd82dac1be823afa268160.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\deve\sdk\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="E:\code\hn\LinZiReader\app\build\intermediates\pre-dexed\debug\support-v4-19.1.0_bacd01b31162dad133ec7ca59dc2d3b3fa81eff4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\code\hn\LinZiReader\app\libs\IndoorscapeAlbumPlugin.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="f4ac7ae5070911d02290331664a36475fb9a5ebb">
+        <dex dex="E:\code\hn\LinZiReader\app\build\intermediates\pre-dexed\debug\IndoorscapeAlbumPlugin_49987664956fa025f9fddd9fc3d652affdd033f1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\code\hn\LinZiReader\app\libs\cpdetector_1.0.10.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="5e823a42ddfad49a445a89d15566792b9ed8ecac">
+        <dex dex="E:\code\hn\LinZiReader\app\build\intermediates\pre-dexed\debug\cpdetector_1.0.10_9df0768a1eeab4f2a2aae08c02e9d8a81fd1136a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\code\hn\LinZiReader\app\libs\jargs-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="0c40b72d934ddbea05368df91456f4d3689296dd">
+        <dex dex="E:\code\hn\LinZiReader\app\build\intermediates\pre-dexed\debug\jargs-1.0_3de51a44540826bf79f7ed7ad29e3662ce3ddb37.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\code\hn\LinZiReader\app\libs\okio-1.7.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="1dc44f4cec20a64cebb68b90b4218f82ac7948b1">
+        <dex dex="E:\code\hn\LinZiReader\app\build\intermediates\pre-dexed\debug\okio-1.7.0_79d47caa15a2d73764a6c3e4b3d1b94356b0a37b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\code\hn\LinZiReader\app\libs\antlr-2.7.4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="56e971d779b8aeee0366d11a613dcf9f7882a3b1">
+        <dex dex="E:\code\hn\LinZiReader\app\build\intermediates\pre-dexed\debug\antlr-2.7.4_529715395a12b1b4252832b0d9521b3e710553c2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\code\hn\LinZiReader\app\libs\aphid-FilpView-Library.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="aabcab4ed451cd0b2f4cf88b64d5893d490dfdb2">
+        <dex dex="E:\code\hn\LinZiReader\app\build\intermediates\pre-dexed\debug\aphid-FilpView-Library_1c979cbaf8810ae25c0f54e17be27d3c509e19cb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\code\hn\LinZiReader\app\libs\BASE64.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="f80edc977b5165ff7c451e1c6b94de9f25d7e41f">
+        <dex dex="E:\code\hn\LinZiReader\app\build\intermediates\pre-dexed\debug\BASE64_3de7b76f0efabfe28d73cacb7d850db4f7c16921.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\code\hn\LinZiReader\app\libs\universal-image-loader-1.8.6-with-sources.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="9ad605dd55be2e74e614b2ab2ff466439c4461b7">
+        <dex dex="E:\code\hn\LinZiReader\app\build\intermediates\pre-dexed\debug\universal-image-loader-1.8.6-with-sources_6d01d88b0648bf8a5160d89d053e0d8b46af6f5a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\code\hn\LinZiReader\app\libs\zxing.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="e88c14e6e7daa0fa65172a62b54ee6a16ff4162d">
+        <dex dex="E:\code\hn\LinZiReader\app\build\intermediates\pre-dexed\debug\zxing_92ff44b983d7b1e1fe697d2b58c8ac650e717454.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.3.1\ecb6e1f8e4b0e84c4b886c2f14a1500caf309757\gson-2.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="ecb6e1f8e4b0e84c4b886c2f14a1500caf309757">
+        <dex dex="E:\code\hn\LinZiReader\app\build\intermediates\pre-dexed\debug\gson-2.3.1_3d67bc6296728dce11d45e3fe02a4d0f0bf336e9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\code\hn\LinZiReader\app\libs\BaiduLBS_Android.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="ec7570ef9b0d9cf46718d3bc2da5b384af3b8879">
+        <dex dex="E:\code\hn\LinZiReader\app\build\intermediates\pre-dexed\debug\BaiduLBS_Android_b640141b264c40de1ed6855b77bd28bbc9be9a28.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\code\hn\LinZiReader\app\libs\okhttp-2.7.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="7a15a7db50f86c4b64aa3367424a60e3a325b8f1">
+        <dex dex="E:\code\hn\LinZiReader\app\build\intermediates\pre-dexed\debug\okhttp-2.7.5_5690bed34574a8f419fbedc005b358f3c37147cd.jar" />
+    </item>
+
+</items>

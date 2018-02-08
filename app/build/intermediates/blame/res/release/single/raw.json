@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\code\\hn\\LinZiReader\\app\\build\\intermediates\\res\\merged\\release\\raw\\realm_properties",
+        "source": "E:\\code\\hn\\LinZiReader\\app\\src\\main\\res\\raw\\realm_properties"
+    },
+    {
+        "merged": "E:\\code\\hn\\LinZiReader\\app\\build\\intermediates\\res\\merged\\release\\raw\\beep.ogg",
+        "source": "E:\\code\\hn\\LinZiReader\\app\\src\\main\\res\\raw\\beep.ogg"
+    }
+]

@@ -1,0 +1,362 @@
+[
+    {
+        "merged": "E:\\code\\hn\\LinZiReader\\app\\build\\intermediates\\res\\merged\\debug\\layout\\xlistview_footer.xml",
+        "source": "E:\\code\\hn\\LinZiReader\\app\\src\\main\\res\\layout\\xlistview_footer.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\LinZiReader\\app\\build\\intermediates\\res\\merged\\debug\\layout\\kong_kecheng.xml",
+        "source": "E:\\code\\hn\\LinZiReader\\app\\src\\main\\res\\layout\\kong_kecheng.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\LinZiReader\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_capture.xml",
+        "source": "E:\\code\\hn\\LinZiReader\\app\\src\\main\\res\\layout\\activity_capture.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\LinZiReader\\app\\build\\intermediates\\res\\merged\\debug\\layout\\download_notification_layout.xml",
+        "source": "E:\\code\\hn\\LinZiReader\\app\\src\\main\\res\\layout\\download_notification_layout.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\LinZiReader\\app\\build\\intermediates\\res\\merged\\debug\\layout\\turnmain3.xml",
+        "source": "E:\\code\\hn\\LinZiReader\\app\\src\\main\\res\\layout\\turnmain3.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\LinZiReader\\app\\build\\intermediates\\res\\merged\\debug\\layout\\zhichang_list.xml",
+        "source": "E:\\code\\hn\\LinZiReader\\app\\src\\main\\res\\layout\\zhichang_list.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\LinZiReader\\app\\build\\intermediates\\res\\merged\\debug\\layout\\turnpage1.xml",
+        "source": "E:\\code\\hn\\LinZiReader\\app\\src\\main\\res\\layout\\turnpage1.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\LinZiReader\\app\\build\\intermediates\\res\\merged\\debug\\layout\\yaoyiyao.xml",
+        "source": "E:\\code\\hn\\LinZiReader\\app\\src\\main\\res\\layout\\yaoyiyao.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\LinZiReader\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_led.xml",
+        "source": "E:\\code\\hn\\LinZiReader\\app\\src\\main\\res\\layout\\activity_led.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\LinZiReader\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_measure.xml",
+        "source": "E:\\code\\hn\\LinZiReader\\app\\src\\main\\res\\layout\\activity_measure.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\LinZiReader\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_title.xml",
+        "source": "E:\\code\\hn\\LinZiReader\\app\\src\\main\\res\\layout\\activity_title.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\LinZiReader\\app\\build\\intermediates\\res\\merged\\debug\\layout\\download_manege.xml",
+        "source": "E:\\code\\hn\\LinZiReader\\app\\src\\main\\res\\layout\\download_manege.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\LinZiReader\\app\\build\\intermediates\\res\\merged\\debug\\layout\\setup.xml",
+        "source": "E:\\code\\hn\\LinZiReader\\app\\src\\main\\res\\layout\\setup.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\LinZiReader\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_web.xml",
+        "source": "E:\\code\\hn\\LinZiReader\\app\\src\\main\\res\\layout\\activity_web.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\LinZiReader\\app\\build\\intermediates\\res\\merged\\debug\\layout\\classicbooks_main.xml",
+        "source": "E:\\code\\hn\\LinZiReader\\app\\src\\main\\res\\layout\\classicbooks_main.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\LinZiReader\\app\\build\\intermediates\\res\\merged\\debug\\layout\\kcmanage.xml",
+        "source": "E:\\code\\hn\\LinZiReader\\app\\src\\main\\res\\layout\\kcmanage.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\LinZiReader\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_login.xml",
+        "source": "E:\\code\\hn\\LinZiReader\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\LinZiReader\\app\\build\\intermediates\\res\\merged\\debug\\layout\\kc_list.xml",
+        "source": "E:\\code\\hn\\LinZiReader\\app\\src\\main\\res\\layout\\kc_list.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\LinZiReader\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_splash.xml",
+        "source": "E:\\code\\hn\\LinZiReader\\app\\src\\main\\res\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\LinZiReader\\app\\build\\intermediates\\res\\merged\\debug\\layout\\xxxxxxx.xml",
+        "source": "E:\\code\\hn\\LinZiReader\\app\\src\\main\\res\\layout\\xxxxxxx.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\LinZiReader\\app\\build\\intermediates\\res\\merged\\debug\\layout\\kong_shujia.xml",
+        "source": "E:\\code\\hn\\LinZiReader\\app\\src\\main\\res\\layout\\kong_shujia.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\LinZiReader\\app\\build\\intermediates\\res\\merged\\debug\\layout\\category_list.xml",
+        "source": "E:\\code\\hn\\LinZiReader\\app\\src\\main\\res\\layout\\category_list.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\LinZiReader\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list.xml",
+        "source": "E:\\code\\hn\\LinZiReader\\app\\src\\main\\res\\layout\\list.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\LinZiReader\\app\\build\\intermediates\\res\\merged\\debug\\layout\\faqihuodong.xml",
+        "source": "E:\\code\\hn\\LinZiReader\\app\\src\\main\\res\\layout\\faqihuodong.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\LinZiReader\\app\\build\\intermediates\\res\\merged\\debug\\layout\\gridbt.xml",
+        "source": "E:\\code\\hn\\LinZiReader\\app\\src\\main\\res\\layout\\gridbt.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\LinZiReader\\app\\build\\intermediates\\res\\merged\\debug\\layout\\myzhichang.xml",
+        "source": "E:\\code\\hn\\LinZiReader\\app\\src\\main\\res\\layout\\myzhichang.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\LinZiReader\\app\\build\\intermediates\\res\\merged\\debug\\layout\\localshujia.xml",
+        "source": "E:\\code\\hn\\LinZiReader\\app\\src\\main\\res\\layout\\localshujia.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\LinZiReader\\app\\build\\intermediates\\res\\merged\\debug\\layout\\personal_settings.xml",
+        "source": "E:\\code\\hn\\LinZiReader\\app\\src\\main\\res\\layout\\personal_settings.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\LinZiReader\\app\\build\\intermediates\\res\\merged\\debug\\layout\\myhuodong.xml",
+        "source": "E:\\code\\hn\\LinZiReader\\app\\src\\main\\res\\layout\\myhuodong.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\LinZiReader\\app\\build\\intermediates\\res\\merged\\debug\\layout\\common_datetime.xml",
+        "source": "E:\\code\\hn\\LinZiReader\\app\\src\\main\\res\\layout\\common_datetime.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\LinZiReader\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main_menu_item.xml",
+        "source": "E:\\code\\hn\\LinZiReader\\app\\src\\main\\res\\layout\\main_menu_item.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\LinZiReader\\app\\build\\intermediates\\res\\merged\\debug\\layout\\xiaoxi_item.xml",
+        "source": "E:\\code\\hn\\LinZiReader\\app\\src\\main\\res\\layout\\xiaoxi_item.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\LinZiReader\\app\\build\\intermediates\\res\\merged\\debug\\layout\\image_detail_fragment.xml",
+        "source": "E:\\code\\hn\\LinZiReader\\app\\src\\main\\res\\layout\\image_detail_fragment.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\LinZiReader\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_shinei.xml",
+        "source": "E:\\code\\hn\\LinZiReader\\app\\src\\main\\res\\layout\\activity_shinei.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\LinZiReader\\app\\build\\intermediates\\res\\merged\\debug\\layout\\kong_xiaoxi.xml",
+        "source": "E:\\code\\hn\\LinZiReader\\app\\src\\main\\res\\layout\\kong_xiaoxi.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\LinZiReader\\app\\build\\intermediates\\res\\merged\\debug\\layout\\personal_ziliao.xml",
+        "source": "E:\\code\\hn\\LinZiReader\\app\\src\\main\\res\\layout\\personal_ziliao.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\LinZiReader\\app\\build\\intermediates\\res\\merged\\debug\\layout\\change_bg.xml",
+        "source": "E:\\code\\hn\\LinZiReader\\app\\src\\main\\res\\layout\\change_bg.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\LinZiReader\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_curve.xml",
+        "source": "E:\\code\\hn\\LinZiReader\\app\\src\\main\\res\\layout\\activity_curve.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\LinZiReader\\app\\build\\intermediates\\res\\merged\\debug\\layout\\yaoyiyao_list.xml",
+        "source": "E:\\code\\hn\\LinZiReader\\app\\src\\main\\res\\layout\\yaoyiyao_list.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\LinZiReader\\app\\build\\intermediates\\res\\merged\\debug\\layout\\classicbook_content.xml",
+        "source": "E:\\code\\hn\\LinZiReader\\app\\src\\main\\res\\layout\\classicbook_content.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\LinZiReader\\app\\build\\intermediates\\res\\merged\\debug\\layout\\exit_dialog.xml",
+        "source": "E:\\code\\hn\\LinZiReader\\app\\src\\main\\res\\layout\\exit_dialog.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\LinZiReader\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ledview.xml",
+        "source": "E:\\code\\hn\\LinZiReader\\app\\src\\main\\res\\layout\\ledview.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\LinZiReader\\app\\build\\intermediates\\res\\merged\\debug\\layout\\zhichang_list_item.xml",
+        "source": "E:\\code\\hn\\LinZiReader\\app\\src\\main\\res\\layout\\zhichang_list_item.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\LinZiReader\\app\\build\\intermediates\\res\\merged\\debug\\layout\\image_detail_pager.xml",
+        "source": "E:\\code\\hn\\LinZiReader\\app\\src\\main\\res\\layout\\image_detail_pager.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\LinZiReader\\app\\build\\intermediates\\res\\merged\\debug\\layout\\view_lv_measure.xml",
+        "source": "E:\\code\\hn\\LinZiReader\\app\\src\\main\\res\\layout\\view_lv_measure.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\LinZiReader\\app\\build\\intermediates\\res\\merged\\debug\\layout\\huodong_list.xml",
+        "source": "E:\\code\\hn\\LinZiReader\\app\\src\\main\\res\\layout\\huodong_list.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\LinZiReader\\app\\build\\intermediates\\res\\merged\\debug\\layout\\classicbooks_list.xml",
+        "source": "E:\\code\\hn\\LinZiReader\\app\\src\\main\\res\\layout\\classicbooks_list.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\LinZiReader\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dlmanage.xml",
+        "source": "E:\\code\\hn\\LinZiReader\\app\\src\\main\\res\\layout\\dlmanage.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\LinZiReader\\app\\build\\intermediates\\res\\merged\\debug\\layout\\xlistview_header.xml",
+        "source": "E:\\code\\hn\\LinZiReader\\app\\src\\main\\res\\layout\\xlistview_header.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\LinZiReader\\app\\build\\intermediates\\res\\merged\\debug\\layout\\huodong_detail.xml",
+        "source": "E:\\code\\hn\\LinZiReader\\app\\src\\main\\res\\layout\\huodong_detail.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\LinZiReader\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_menu_bottom.xml",
+        "source": "E:\\code\\hn\\LinZiReader\\app\\src\\main\\res\\layout\\activity_menu_bottom.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\LinZiReader\\app\\build\\intermediates\\res\\merged\\debug\\layout\\net.xml",
+        "source": "E:\\code\\hn\\LinZiReader\\app\\src\\main\\res\\layout\\net.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\LinZiReader\\app\\build\\intermediates\\res\\merged\\debug\\layout\\kong_data.xml",
+        "source": "E:\\code\\hn\\LinZiReader\\app\\src\\main\\res\\layout\\kong_data.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\LinZiReader\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_zuixin.xml",
+        "source": "E:\\code\\hn\\LinZiReader\\app\\src\\main\\res\\layout\\activity_zuixin.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\LinZiReader\\app\\build\\intermediates\\res\\merged\\debug\\layout\\xiaoxi_content.xml",
+        "source": "E:\\code\\hn\\LinZiReader\\app\\src\\main\\res\\layout\\xiaoxi_content.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\LinZiReader\\app\\build\\intermediates\\res\\merged\\debug\\layout\\yaoyiyao_result.xml",
+        "source": "E:\\code\\hn\\LinZiReader\\app\\src\\main\\res\\layout\\yaoyiyao_result.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\LinZiReader\\app\\build\\intermediates\\res\\merged\\debug\\layout\\jiaxiaoxi.xml",
+        "source": "E:\\code\\hn\\LinZiReader\\app\\src\\main\\res\\layout\\jiaxiaoxi.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\LinZiReader\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "E:\\code\\hn\\LinZiReader\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\LinZiReader\\app\\build\\intermediates\\res\\merged\\debug\\layout\\kc_contenturl.xml",
+        "source": "E:\\code\\hn\\LinZiReader\\app\\src\\main\\res\\layout\\kc_contenturl.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\LinZiReader\\app\\build\\intermediates\\res\\merged\\debug\\layout\\book_xiangxi.xml",
+        "source": "E:\\code\\hn\\LinZiReader\\app\\src\\main\\res\\layout\\book_xiangxi.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\LinZiReader\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ziliaojia.xml",
+        "source": "E:\\code\\hn\\LinZiReader\\app\\src\\main\\res\\layout\\ziliaojia.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\LinZiReader\\app\\build\\intermediates\\res\\merged\\debug\\layout\\gridview_item.xml",
+        "source": "E:\\code\\hn\\LinZiReader\\app\\src\\main\\res\\layout\\gridview_item.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\LinZiReader\\app\\build\\intermediates\\res\\merged\\debug\\layout\\zhichangcontent.xml",
+        "source": "E:\\code\\hn\\LinZiReader\\app\\src\\main\\res\\layout\\zhichangcontent.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\LinZiReader\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dllist_item.xml",
+        "source": "E:\\code\\hn\\LinZiReader\\app\\src\\main\\res\\layout\\dllist_item.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\LinZiReader\\app\\build\\intermediates\\res\\merged\\debug\\layout\\shujia.xml",
+        "source": "E:\\code\\hn\\LinZiReader\\app\\src\\main\\res\\layout\\shujia.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\LinZiReader\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_show.xml",
+        "source": "E:\\code\\hn\\LinZiReader\\app\\src\\main\\res\\layout\\activity_show.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\LinZiReader\\app\\build\\intermediates\\res\\merged\\debug\\layout\\turnpage3.xml",
+        "source": "E:\\code\\hn\\LinZiReader\\app\\src\\main\\res\\layout\\turnpage3.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\LinZiReader\\app\\build\\intermediates\\res\\merged\\debug\\layout\\comment_item.xml",
+        "source": "E:\\code\\hn\\LinZiReader\\app\\src\\main\\res\\layout\\comment_item.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\LinZiReader\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main_menu.xml",
+        "source": "E:\\code\\hn\\LinZiReader\\app\\src\\main\\res\\layout\\main_menu.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\LinZiReader\\app\\build\\intermediates\\res\\merged\\debug\\layout\\xiaoxi_main.xml",
+        "source": "E:\\code\\hn\\LinZiReader\\app\\src\\main\\res\\layout\\xiaoxi_main.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\LinZiReader\\app\\build\\intermediates\\res\\merged\\debug\\layout\\huodong_list_item.xml",
+        "source": "E:\\code\\hn\\LinZiReader\\app\\src\\main\\res\\layout\\huodong_list_item.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\LinZiReader\\app\\build\\intermediates\\res\\merged\\debug\\layout\\kong_zlj.xml",
+        "source": "E:\\code\\hn\\LinZiReader\\app\\src\\main\\res\\layout\\kong_zlj.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\LinZiReader\\app\\build\\intermediates\\res\\merged\\debug\\layout\\video_loading_progress.xml",
+        "source": "E:\\code\\hn\\LinZiReader\\app\\src\\main\\res\\layout\\video_loading_progress.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\LinZiReader\\app\\build\\intermediates\\res\\merged\\debug\\layout\\custom_menu.xml",
+        "source": "E:\\code\\hn\\LinZiReader\\app\\src\\main\\res\\layout\\custom_menu.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\LinZiReader\\app\\build\\intermediates\\res\\merged\\debug\\layout\\classicbooks_mainitem.xml",
+        "source": "E:\\code\\hn\\LinZiReader\\app\\src\\main\\res\\layout\\classicbooks_mainitem.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\LinZiReader\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_chapter_list.xml",
+        "source": "E:\\code\\hn\\LinZiReader\\app\\src\\main\\res\\layout\\activity_chapter_list.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\LinZiReader\\app\\build\\intermediates\\res\\merged\\debug\\layout\\zhichang_detail.xml",
+        "source": "E:\\code\\hn\\LinZiReader\\app\\src\\main\\res\\layout\\zhichang_detail.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\LinZiReader\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_dianzizazhi.xml",
+        "source": "E:\\code\\hn\\LinZiReader\\app\\src\\main\\res\\layout\\activity_dianzizazhi.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\LinZiReader\\app\\build\\intermediates\\res\\merged\\debug\\layout\\turnpage2.xml",
+        "source": "E:\\code\\hn\\LinZiReader\\app\\src\\main\\res\\layout\\turnpage2.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\LinZiReader\\app\\build\\intermediates\\res\\merged\\debug\\layout\\test1.xml",
+        "source": "E:\\code\\hn\\LinZiReader\\app\\src\\main\\res\\layout\\test1.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\LinZiReader\\app\\build\\intermediates\\res\\merged\\debug\\layout\\xiugai_password.xml",
+        "source": "E:\\code\\hn\\LinZiReader\\app\\src\\main\\res\\layout\\xiugai_password.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\LinZiReader\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_xueyaji.xml",
+        "source": "E:\\code\\hn\\LinZiReader\\app\\src\\main\\res\\layout\\activity_xueyaji.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\LinZiReader\\app\\build\\intermediates\\res\\merged\\debug\\layout\\publicclass_content.xml",
+        "source": "E:\\code\\hn\\LinZiReader\\app\\src\\main\\res\\layout\\publicclass_content.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\LinZiReader\\app\\build\\intermediates\\res\\merged\\debug\\layout\\about.xml",
+        "source": "E:\\code\\hn\\LinZiReader\\app\\src\\main\\res\\layout\\about.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\LinZiReader\\app\\build\\intermediates\\res\\merged\\debug\\layout\\popup_measure.xml",
+        "source": "E:\\code\\hn\\LinZiReader\\app\\src\\main\\res\\layout\\popup_measure.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\LinZiReader\\app\\build\\intermediates\\res\\merged\\debug\\layout\\type_item.xml",
+        "source": "E:\\code\\hn\\LinZiReader\\app\\src\\main\\res\\layout\\type_item.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\LinZiReader\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_menu_top.xml",
+        "source": "E:\\code\\hn\\LinZiReader\\app\\src\\main\\res\\layout\\activity_menu_top.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\LinZiReader\\app\\build\\intermediates\\res\\merged\\debug\\layout\\manage_item.xml",
+        "source": "E:\\code\\hn\\LinZiReader\\app\\src\\main\\res\\layout\\manage_item.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\LinZiReader\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ziliaojia_item.xml",
+        "source": "E:\\code\\hn\\LinZiReader\\app\\src\\main\\res\\layout\\ziliaojia_item.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\LinZiReader\\app\\build\\intermediates\\res\\merged\\debug\\layout\\sbjump.xml",
+        "source": "E:\\code\\hn\\LinZiReader\\app\\src\\main\\res\\layout\\sbjump.xml"
+    }
+]

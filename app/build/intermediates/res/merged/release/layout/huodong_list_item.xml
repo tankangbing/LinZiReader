@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.hn.linzi.views.PercentLinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                                        xmlns:tools="http://schemas.android.com/tools"
+                                        xmlns:app="http://schemas.android.com/apk/res-auto"
+                                        android:layout_width="match_parent"
+                                        android:layout_height="match_parent"
+                                        android:orientation="vertical" >
+
+    <com.hn.linzi.views.PercentLinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        app:layout_heightPercent="26.25%w"
+        android:gravity="center_horizontal"
+        android:orientation="horizontal" >
+
+        <com.hn.linzi.views.PercentFrameLayout
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            app:layout_widthPercent="26.25%w" >
+
+            <com.hn.linzi.views.RoundImageView
+                android:id="@+id/huodong_list_img"
+                android:layout_width="0dp"
+                android:layout_height="0dp"
+                app:layout_widthPercent="96.3%h"
+                app:layout_heightPercent="96.3%h"
+                android:layout_gravity="bottom|right"
+                android:scaleType="fitXY"
+                android:src="@drawable/huodongfengmian"
+                app:borderRadius="5dp"
+                app:type="round" />
+
+            <ImageView
+                android:id="@+id/xuefenbg"
+                android:layout_width="0dp"
+                android:layout_height="0dp"
+                app:layout_widthPercent="50.8%h"
+                app:layout_heightPercent="50.8%h"
+                android:scaleType="fitXY"
+                android:visibility="visible"
+                android:src="@drawable/xuefenbg" />
+
+            <com.hn.linzi.views.RotateTextView
+                android:id="@+id/rotateTextView"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@android:color/transparent"
+                android:textColor="#FFFFFF"
+                app:layout_textSizePercent="11.8%h"
+                android:textStyle="bold"
+                app:degree="225" />
+        </com.hn.linzi.views.PercentFrameLayout>
+
+        <com.hn.linzi.views.PercentLinearLayout
+            android:layout_width="0dp"
+            android:layout_height="0dp"
+            app:layout_widthPercent="63%w" 
+            app:layout_heightPercent="25.3%w"
+            app:layout_marginLeftPercent="2.4%w"
+            app:layout_marginTopPercent="3%h"
+            android:background="@drawable/huodongneirongbg"
+            android:orientation="vertical" >
+
+            <TextView
+                android:id="@+id/huodong_list_title"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                app:layout_marginLeftPercent="18.6%h"
+                app:layout_marginTopPercent="4.5%h"
+                app:layout_textSizePercent="17%h"
+                android:ellipsize="end"
+                android:singleLine="true"
+                android:textColor="#FFFFFF" />
+
+            <com.hn.linzi.views.PercentLinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                app:layout_marginLeftPercent="18.6%h"
+                app:layout_marginTopPercent="3%h"
+                android:orientation="horizontal" >
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:singleLine="true"
+                    android:text="开始时间："
+                    android:textColor="#FFFFFF"
+                    app:layout_textSizePercent="5.8%w" />
+
+                <TextView
+                    android:id="@+id/huodong_list_time"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:singleLine="true"
+                    android:textColor="#FCD143"
+                    app:layout_textSizePercent="5.8%w" />
+            </com.hn.linzi.views.PercentLinearLayout>
+
+            <TextView
+                android:id="@+id/huodong_list_author"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:singleLine="true"
+                app:layout_marginLeftPercent="18.6%h"
+                app:layout_marginTopPercent="3%h"
+                app:layout_textSizePercent="14.5%h"
+                android:textColor="#FFFFFF" />
+
+            <com.hn.linzi.views.PercentLinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                app:layout_marginLeftPercent="18.6%h"
+                app:layout_marginTopPercent="3%h"
+                android:orientation="horizontal" >
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:singleLine="true"
+                    android:text="已报名人数："
+                    android:textColor="#FFFFFF"
+                    app:layout_textSizePercent="5.8%w" />
+
+                <TextView
+                    android:id="@+id/huodong_list_content"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:singleLine="true"
+                    android:textColor="#FCD143"
+                    app:layout_textSizePercent="5.8%w" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:singleLine="true"
+                    android:text="人"
+                    android:textColor="#FFFFFF"
+                    app:layout_textSizePercent="5.8%w" />
+            </com.hn.linzi.views.PercentLinearLayout>
+        </com.hn.linzi.views.PercentLinearLayout>
+    </com.hn.linzi.views.PercentLinearLayout>
+
+</com.hn.linzi.views.PercentLinearLayout>

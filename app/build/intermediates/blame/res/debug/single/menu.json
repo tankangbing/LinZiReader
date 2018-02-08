@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "E:\\code\\hn\\LinZiReader\\app\\build\\intermediates\\res\\merged\\debug\\menu\\list.xml",
+        "source": "E:\\code\\hn\\LinZiReader\\app\\src\\main\\res\\menu\\list.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\LinZiReader\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "E:\\code\\hn\\LinZiReader\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\LinZiReader\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_led.xml",
+        "source": "E:\\code\\hn\\LinZiReader\\app\\src\\main\\res\\menu\\activity_led.xml"
+    }
+]

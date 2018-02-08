@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:id="@+id/activity_bg" >
+    <FrameLayout
+        android:id="@+id/video_fullView"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:visibility="gone" >
+    </FrameLayout>
+    
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="78"
+        android:background="@drawable/daohanglan" >
+
+        <TextView 
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/daohanglan"
+            android:textColor="#FFFFFF"
+            android:text="网页信息"
+            android:layout_centerVertical="true"
+            android:layout_centerHorizontal="true"
+            android:textSize="20sp"/>
+        <Button
+            android:id="@+id/ziliaojiaxianxi_back"
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:layout_alignParentLeft="true"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="20dp"
+            android:background="@drawable/fanhui" />
+
+    </RelativeLayout>
+
+    <WebView
+        android:id="@+id/net_webview"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="922"
+        android:visibility="visible" />
+
+</LinearLayout>

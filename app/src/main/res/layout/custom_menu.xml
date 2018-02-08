@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.hn.linzi.views.PercentLinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                                        xmlns:tools="http://schemas.android.com/tools"
+                                        xmlns:app="http://schemas.android.com/apk/res-auto"
+                                        android:layout_width="match_parent"
+                                        android:layout_height="match_parent"
+                                        android:layout_gravity="center"
+                                        android:id="@+id/activity_bg"
+                                        android:orientation="vertical"
+                                        tools:context="com.hn.linzi.activity.CustomMenuActivity" >
+
+    <com.hn.linzi.views.PercentRelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        app:layout_heightPercent="7.8%h"
+        android:background="@drawable/daohanglan2" >
+
+        <TextView
+            android:id="@+id/daohanglan"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_centerVertical="true"
+            android:text="请选择需要的功能"
+            android:textColor="#FFFFFF"
+            android:textSize="20sp" />
+
+        <Button
+            android:id="@+id/custommenu_back"
+            android:layout_width="35dp"
+            android:layout_height="35dp"
+            android:layout_alignParentLeft="true"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="10dp"
+            android:background="@drawable/fanhui" />
+    </com.hn.linzi.views.PercentRelativeLayout>
+
+    <TableLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:shrinkColumns="2"
+        android:stretchColumns="2" >
+
+        <TableRow>
+
+            <CheckBox
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:checked="true"
+                android:text="中外经典"
+                android:id="@+id/checkbox_zhongwai"
+                android:textColor="#FFFFFF" />
+
+            <CheckBox
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:checked="true"
+                android:text="公开课堂"
+                android:id="@+id/checkbox_gongkai"
+                android:textColor="#FFFFFF" />
+        </TableRow>
+
+        <TableRow>
+
+            <CheckBox
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:checked="true"
+                android:text="特色资源"
+                android:id="@+id/checkbox_huodong"
+                android:textColor="#FFFFFF" />
+
+          
+        </TableRow>
+    </TableLayout>
+
+    <com.hn.linzi.views.PercentRelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        app:layout_heightPercent="7.8%h"
+        android:layout_marginTop="10dp"
+        android:gravity="center" >
+        
+        <TextView 
+            android:id="@+id/custommenu_ok"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_marginTop="5dp"
+            android:layout_marginBottom="5dp"
+            app:layout_widthPercent="91.1%w"
+            android:text="确定"
+            android:gravity="center"
+            android:textColor="#FFFFFF"
+            android:textSize="18sp"
+            android:background="@drawable/huodong_signupbtn" />
+    </com.hn.linzi.views.PercentRelativeLayout>
+
+</com.hn.linzi.views.PercentLinearLayout>

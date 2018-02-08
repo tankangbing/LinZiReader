@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="output"><source path="C:\Users\Administrator\.android\build-cache\749c4cbf9d4727864786934f8ec602233d9a0084\output\assets"/></dataSet><dataSet config="main"><source path="E:\code\hn\LinZiReader\app\src\main\assets"/><source path="E:\code\hn\LinZiReader\app\build\generated\assets\shaders\release"/></dataSet><dataSet config="release"><source path="E:\code\hn\LinZiReader\app\src\release\assets"/></dataSet></merger>

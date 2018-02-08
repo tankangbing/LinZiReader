@@ -1,0 +1,234 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="#888888"
+   	android:padding="0dip"
+   	android:focusable="true"
+    android:focusableInTouchMode="true"
+    android:clickable="true" 
+    android:id="@+id/setup1" 
+    tools:context="${relativePackage}.${activityClass}" >
+
+    <TableLayout
+        android:id="@+id/menu_bottom_table2" 
+        android:layout_width="match_parent"
+        android:layout_height="60dp"  
+        android:stretchColumns="1"  
+        android:gravity="center_vertical"
+        android:background="#333333"   
+        >
+		<TableRow     
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation= "horizontal"
+    		android:gravity="center_vertical">
+           <ImageView android:src="@drawable/lightdown_nor" android:layout_height="20dp" />
+		     <SeekBar
+		         android:id="@+id/seekBar2"
+		         android:layout_width="wrap_content"
+		         android:layout_height="wrap_content"   
+		         android:layout_margin="10dp" 
+		         />
+			<ImageView android:src="@drawable/lightup_nor" android:layout_height="20dp"/>
+			<CheckBox
+			    android:id="@+id/checkBox1"
+			    android:layout_width="wrap_content"
+			    android:layout_height="wrap_content"
+			    android:layout_gravity="center_vertical"
+			    android:text="绯荤粺" />
+			
+        </TableRow>
+    </TableLayout>
+     <TableLayout
+         android:id="@+id/menu_bottom_table3" 
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:layout_marginTop="60.3dp" 
+        android:background="#333333"
+        android:gravity="center_vertical"   
+        android:stretchColumns="*"
+        android:padding="0dp" 
+         >		
+     <TableRow            
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center_vertical"
+            android:layout_margin="0dp"
+             >
+         <TextView
+             android:id="@+id/textView1"
+             android:layout_width="match_parent"
+             android:layout_height="wrap_content"
+             android:text="Aa-"
+             android:textSize="30dp"
+             android:layout_gravity="center_horizontal" />
+
+         <TextView
+             android:id="@+id/textView2"
+             android:layout_width="wrap_content"
+             android:layout_height="wrap_content"
+             android:text="Aa+"
+             android:textSize="30dp"
+             android:layout_gravity="center_horizontal" />
+            
+        </TableRow>   
+   </TableLayout>
+   <TableLayout
+       	android:id="@+id/menu_bottom_table4" 
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:layout_marginTop="120.8dp"  
+        android:background="#333333"     
+        android:gravity="center_vertical"  
+        android:stretchColumns="0,1,2,3,4,5,6"  >
+        
+		<TableRow      
+		    android:id="@+id/menu_bottom_tablerow1"  		        
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" 
+            android:orientation= "horizontal"
+            android:padding="0dp"
+    		android:gravity="center_vertical" 
+    		 >
+            <ImageView android:id="@+id/bg0" android:src="@drawable/bg_0" android:layout_margin="3dp" 
+                android:layout_width="40dp" android:layout_height="40dp" />
+            <ImageView android:id="@+id/bg1" android:src="@drawable/bg_1" android:layout_margin="3dp" 
+                android:layout_width="40dp" android:layout_height="40dp" />
+            <ImageView android:id="@+id/bg2" android:src="@drawable/bg_2" android:layout_margin="3dp" 
+                android:layout_width="40dp" android:layout_height="40dp" />
+            <ImageView android:id="@+id/bg3" android:src="@drawable/bg_3" android:layout_margin="3dp"
+                android:layout_width="40dp" android:layout_height="40dp" />
+            <ImageView android:id="@+id/bg4" android:src="@drawable/bg_4" android:layout_margin="3dp"
+                android:layout_width="40dp" android:layout_height="40dp" />
+            <ImageView android:id="@+id/bg5" android:src="@drawable/bg_5" android:layout_margin="3dp"
+                android:layout_width="40dp" android:layout_height="40dp" />
+            <ImageView android:id="@+id/bg6" android:src="@drawable/bg_6" android:layout_margin="3dp"
+                android:layout_width="40dp" android:layout_height="40dp" />
+                     
+            </TableRow>  
+                  
+    </TableLayout>
+  
+   <TableLayout
+       	android:id="@+id/menu_bottom_table5" 
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:layout_marginTop="181.2dp"  
+        android:background="#333333"     
+        android:gravity="center_vertical"  
+        android:stretchColumns="0"  >
+        
+		<TableRow      
+		    android:id="@+id/menu_bottom_tablerow11"  		        
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" 
+            android:orientation= "horizontal"
+            android:padding="0dp"
+    		android:gravity="center_vertical" 
+    		 >
+         
+                     <TextView
+			             android:id="@+id/textView3"
+			             android:layout_width="match_parent"
+			             android:layout_height="wrap_content"             
+			             android:text="琛岄棿璺�"
+			             
+			             android:padding="6dp"                        
+			             android:textSize="16dp"
+			             android:layout_gravity="center_horizontal" />
+
+                     <Button
+                         android:id="@+id/button1"
+                         android:layout_width="wrap_content"
+                         android:layout_height="wrap_content"
+                         android:background="#666666"
+                         android:padding="6dp"
+                         android:textSize="16dp"
+                         android:text="   绱�   鍑�   " />
+                      <Button
+                         android:id="@+id/button2"
+                         android:layout_width="wrap_content"
+                         android:layout_height="wrap_content"
+                         android:padding="6dp"
+                         android:textSize="16dp"
+                         android:background="#666666"
+                         android:text="   閫�   涓�   " />
+                       <Button
+                         android:id="@+id/button3"
+                         android:layout_width="wrap_content"
+                         android:layout_height="wrap_content"
+                         android:padding="6dp"
+                         android:textSize="16dp"
+                         android:background="#666666"                         
+                         android:text="   鏉�   鏁�   " />
+ 
+            </TableRow>  
+                  
+    </TableLayout>
+
+   <TableLayout
+       	android:id="@+id/menu_bottom_table6" 
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:layout_marginTop="241.6dp"  
+        android:background="#333333"     
+        android:gravity="center_vertical"  
+        android:stretchColumns="0"  >
+        
+		<TableRow      
+		    android:id="@+id/menu_bottom_tablerow12"  		        
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" 
+            android:orientation= "horizontal"
+            android:padding="0dp"
+    		android:gravity="center_vertical" 
+    		 >
+         
+                     <TextView
+			             android:id="@+id/textView4"
+			             android:layout_width="match_parent"
+			             android:layout_height="wrap_content"             
+			             android:text="鐔勫睆鏃堕棿"			             
+			             android:padding="6dp"                        
+			             android:textSize="16dp"			             
+			             android:layout_gravity="center_horizontal" />
+
+                     <Button
+                         android:id="@+id/button4"
+                         android:layout_width="wrap_content"
+                         android:layout_height="wrap_content"
+                         android:background="#666666"
+                         android:padding="6dp"
+                         android:textSize="16dp"
+                         android:text=" 2鍒嗛挓 " />
+                      <Button
+                         android:id="@+id/button5"
+                         android:layout_width="wrap_content"
+                         android:layout_height="wrap_content"
+                         android:padding="6dp"
+                         android:textSize="16dp"
+                         android:background="#666666"
+                         android:text=" 5鍒嗛挓 " />
+                       <Button
+                         android:id="@+id/button6"
+                         android:layout_width="wrap_content"
+                         android:layout_height="wrap_content"
+                         android:padding="6dp"
+                         android:textSize="16dp"
+                         android:background="#666666"                         
+                         android:text=" 10鍒嗛挓 " />
+                       <Button
+                         android:id="@+id/button7"
+                         android:layout_width="wrap_content"
+                         android:layout_height="wrap_content"
+                         android:padding="6dp"
+                         android:textSize="16dp"
+                         android:background="#666666"                         
+                         android:text=" 甯镐寒 " />
+ 
+            </TableRow>  
+                  
+    </TableLayout>
+   
+</RelativeLayout>

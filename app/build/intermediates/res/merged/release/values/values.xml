@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr format="dimension" name="borderRadius"/>
+    <attr name="type">
+        <enum name="circle" value="0"/>
+        <enum name="round" value="1"/>
+    </attr>
+    <color name="bgWhite">#ffffff</color>
+    <color name="black">#000000</color>
+    <color name="bookmark1">#ff0000</color>
+    <color name="border_text">#000000</color>
+    <color name="c1">#D65457</color>
+    <color name="c10">#F3DAB8</color>
+    <color name="c11">#EE8F86</color>
+    <color name="c12">#E16B4F</color>
+    <color name="c13">#35ABA4</color>
+    <color name="c14">#9CD5E0</color>
+    <color name="c15">#DF6A9F</color>
+    <color name="c2">#90ADDA</color>
+    <color name="c3">#ECA799</color>
+    <color name="c4">#8DC7E1</color>
+    <color name="c5">#7491B2</color>
+    <color name="c6">#EDB9D2</color>
+    <color name="c7">#8FC7B6</color>
+    <color name="c8">#BDE0CE</color>
+    <color name="c9">#CCD37B</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorPrimary">#02cea8</color>
+    <color name="colorPrimaryDark">#02cea8</color>
+    <color name="gainsboro">#E9E9E9</color>
+    <color name="gray">#808080</color>
+    <color name="light_black">#141414</color>
+    <color name="line_and_outline_grey">#d9d9d9</color>
+    <color name="possible_result_points">#c0ffff00</color>
+    <color name="result_view">#b0000000</color>
+    <color name="title_transparent_black">#22000000</color>
+    <color name="viewfinder_mask">#60000000</color>
+    <color name="white">#ffffff</color>
+    <declare-styleable name="PercentLayout_Layout"><attr format="string" name="layout_widthPercent"/><attr format="string" name="layout_heightPercent"/><attr format="string" name="layout_marginPercent"/><attr format="string" name="layout_marginLeftPercent"/><attr format="string" name="layout_marginTopPercent"/><attr format="string" name="layout_marginRightPercent"/><attr format="string" name="layout_marginBottomPercent"/><attr format="string" name="layout_marginStartPercent"/><attr format="string" name="layout_marginEndPercent"/><attr format="string" name="layout_textSizePercent"/><attr format="string" name="layout_maxWidthPercent"/><attr format="string" name="layout_maxHeightPercent"/><attr format="string" name="layout_minWidthPercent"/><attr format="string" name="layout_minHeightPercent"/><attr format="string" name="layout_paddingPercent"/><attr format="string" name="layout_paddingTopPercent"/><attr format="string" name="layout_paddingBottomPercent"/><attr format="string" name="layout_paddingLeftPercent"/><attr format="string" name="layout_paddingRightPercent"/></declare-styleable>
+    <declare-styleable name="RotateTextView"><attr format="string" name="degree"/></declare-styleable>
+    <declare-styleable name="RoundImageView"><attr name="borderRadius"/><attr name="type"/></declare-styleable>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <drawable name="green">#00ff00</drawable>
+    <drawable name="pressed">#8b898e</drawable>
+    <item name="about_version_code" type="id">false</item>
+    <item name="auto_focus" type="id"/>
+    <item name="decode" type="id"/>
+    <item name="decode_failed" type="id"/>
+    <item name="decode_succeeded" type="id"/>
+    <item name="encode_failed" type="id"/>
+    <item name="encode_succeeded" type="id"/>
+    <item name="gridview" type="id"/>
+    <item name="launch_product_query" type="id"/>
+    <item name="quit" type="id"/>
+    <item name="restart_preview" type="id"/>
+    <item name="return_scan_result" type="id"/>
+    <item name="search_book_contents_failed" type="id"/>
+    <item name="search_book_contents_succeeded" type="id"/>
+    <item name="split" type="id">false</item>
+    <item name="webview" type="id"/>
+    <string name="about_image">关于图片</string>
+    <string name="about_string">灵芝悦读</string>
+    <string name="action_back">返回</string>
+    <string name="action_my">我的</string>
+    <string name="action_reader">灵芝悦读</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_top">回顶部</string>
+    <string name="app_name">灵芝悦读</string>
+    <string name="btn_login">登录</string>
+    <string name="chongshepw1">输入新密码</string>
+    <string name="chongshepw2">确认新密码</string>
+    <string name="default_time">88:88:88</string>
+    <string name="dialog_cancel">取消</string>
+    <string name="dialog_download">下载</string>
+    <string name="dialog_message">确定退出？</string>
+    <string name="dialog_ok">确定</string>
+    <string name="dialog_title">退出灵芝悦读</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="input_comedo">来医院的目的</string>
+    <string name="input_danwi">医院名称</string>
+    <string name="input_password">真实姓名</string>
+    <string name="input_realname">真实姓名</string>
+    <string name="input_user">用户名</string>
+    <string name="mianmenu_text1">读万卷书，行万里路</string>
+    <string name="mianmenu_text2">实时课程，想学就学</string>
+    <string name="mianmenu_text3">你的喜欢，在这里收藏</string>
+    <string name="mianmenu_text4">我的信息中转站</string>
+    <string name="mianmenu_text5">学习摇一摇，摇出新方向</string>
+    <string name="mianmenu_text6">手机扫一扫，收获你想要的知识</string>
+    <string name="mianmenu_text7">阅读经典，开启智慧之门</string>
+    <string name="mianmenu_text8">兴趣学堂，总有你想学的</string>
+    <string name="mianmenu_text9">海量图书，总有你想要的</string>
+    <string name="mianmenu_title1">书架</string>
+    <string name="mianmenu_title2">课程</string>
+    <string name="mianmenu_title3">资料夹</string>
+    <string name="mianmenu_title4">消息</string>
+    <string name="mianmenu_title5">摇一摇</string>
+    <string name="mianmenu_title6">扫一扫</string>
+    <string name="mianmenu_title7">中外经典</string>
+    <string name="mianmenu_title8">公开课堂</string>
+    <string name="mianmenu_title9">电子书城</string>
+    <string name="recently">最近阅读</string>
+    <string name="scan_text">将二维码放入框内, 即可自动扫描</string>
+    <string name="title_BG">标题栏背景</string>
+    <string name="title_activity_custum_menu_items">Custum_menu_items</string>
+    <string name="title_activity_ledview">LEDView</string>
+    <string name="title_activity_menu_bottom">MainActivity</string>
+    <string name="title_activity_menu_test">MenuTest</string>
+    <string name="title_activity_menu_top">MainActivity</string>
+    <string name="title_activity_sbjump">SBjump</string>
+    <string name="title_activity_setup">Setup</string>
+    <string name="title_activity_test">MainActivity</string>
+    <string name="title_activity_test1">reader2015</string>
+    <string name="title_activity_turn_main">turnmain</string>
+    <string name="title_activity_turn_main2">TurnMain2</string>
+    <string name="title_activity_turnmain2">Turnmain2</string>
+    <string name="title_activity_turnmain3">reader2015</string>
+    <string name="title_activity_turnpage1">Turnpage1</string>
+    <string name="title_activity_turnpage2">Turnpage2</string>
+    <string name="title_activity_turnpage3">Turnpage3</string>
+    <string name="title_activity_turnpage4">Turnpage4</string>
+    <string name="title_activity_turnpage5">Turnpage5</string>
+    <string name="url_huodong_act">http://data.iego.net:85/act/actMember.ashx?</string>
+    <string name="url_huodong_comment">http://data.iego.net:85/act/reviewListJson.ashx?</string>
+    <string name="url_huodong_deletecomment">http://data.iego.net:85/act/reviewdel.ashx?</string>
+    <string name="url_huodong_details">http://data.iego.net:85/act/actInfojson.ashx?</string>
+    <string name="url_huodong_identification">/api/oauth</string>
+    <string name="url_huodong_list">http://data.iego.net:85/act/actlistjson.ashx?</string>
+    <string name="url_huodong_myact">http://data.iego.net:85/act/myactjson.ashx?</string>
+    <string name="url_huodong_sendcomment">http://data.iego.net:85/act/reviewPost.ashx</string>
+    <string name="url_huodong_signup">/api/activity/</string>
+    <string name="url_huodong_unfocus">http://data.iego.net:85/act/actMemberDelete.ashx?</string>
+    <string name="url_huodong_uploadpic">/api/upload?</string>
+    <string name="url_huodong_wocanyude">/api/activities/takepart?</string>
+    <string name="url_huodong_wofaqide">/api/activities/organize?</string>
+    <string name="url_huodong_xiaoyuanOfficialList">/api/activities/official?</string>
+    <string name="url_huodong_xiaoyuanPersonalList">/api/activities/personal?</string>
+    <string name="url_neiwang">http://120.25.248.152:8888</string>
+    <string name="url_zhichang_details">http://data.iego.net:85/job/jobInfojson.ashx?</string>
+    <string name="url_zhichang_list">http://data.iego.net:85/job/jobListjson.ashx?</string>
+    <string name="url_zhichang_myzhichang">http://data.iego.net:85/job/myjobjson.ashx?</string>
+    <string name="url_zhichang_shoucang">http://data.iego.net:85/job/jobMember.ashx?</string>
+    <string name="user_name">用户名</string>
+    <string name="viewpager_indicator">%1$d/%2$d</string>
+    <string name="xlistview_footer_hint_normal">查看更多</string>
+    <string name="xlistview_footer_hint_ready">松开载入更多</string>
+    <string name="xlistview_header_hint_loading">正在加载...</string>
+    <string name="xlistview_header_hint_normal">下拉刷新</string>
+    <string name="xlistview_header_hint_ready">松开刷新数据</string>
+    <string name="xlistview_header_last_time">上次更新时间：</string>
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    
+    </style>
+    <style name="CustomTheme" parent="android:style/Theme.Holo.Light">
+
+    </style>
+    <style name="FullScreenDialog" parent="android:Theme.Dialog">
+
+
+        <!-- 窗口设为无标题 -->
+        <item name="android:windowNoTitle">true</item>
+
+        <!-- 窗口浮现在activity之上 -->
+        <item name="android:windowIsFloating">false</item>
+
+        <!-- 背景透明 -->
+        <item name="android:windowBackground">@color/title_transparent_black</item>
+
+        <!-- 背景模糊 -->
+        <item name="android:backgroundDimEnabled">true</item>
+
+        <!-- 半透明 -->
+        <item name="android:windowIsTranslucent">true</item>
+
+        <!-- 边框 -->
+        <item name="android:windowFrame">@null</item>
+
+        <!-- 全屏 -->
+        <item name="android:windowFullscreen">false</item>
+    </style>
+    <style name="MyDialogStyle">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowAnimationStyle">@android:style/Animation.Dialog</item>
+        <item name="android:backgroundDimEnabled">true</item>
+    </style>
+    <style name="Theme_dialog" parent="@android:style/Theme.Dialog">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowNoTitle">true</item>
+
+    </style>
+    <style name="customDialog" parent="@android:style/Theme.Dialog">		    
+		    <item name="android:windowBackground">@null</item>
+  			<item name="android:padding">0dp</item>  			
+	        <item name="android:backgroundDimEnabled">false</item>
+  			
+		</style>
+    <style name="white">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">10dp</item>
+    </style>
+</resources>

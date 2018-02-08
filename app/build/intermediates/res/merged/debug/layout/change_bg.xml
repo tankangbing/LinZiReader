@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.hn.linzi.views.PercentRelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_bg"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:clipChildren="false"
+    tools:context="com.hn.linzi.activity.ChangeBGActivity" >
+    
+    <com.hn.linzi.views.PercentRelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        app:layout_heightPercent="7.8%h"
+        android:background="@drawable/daohanglan2" >
+
+        <TextView
+            android:id="@+id/daohanglan"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_centerVertical="true"
+            android:text="请选择背景"
+            android:textColor="#FFFFFF"
+            android:textSize="20sp" />
+
+        <Button
+            android:id="@+id/changebg_back"
+            android:layout_width="35dp"
+            android:layout_height="35dp"
+            android:layout_alignParentLeft="true"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="10dp"
+            android:background="@drawable/fanhui" />
+    </com.hn.linzi.views.PercentRelativeLayout>
+
+    <com.hn.linzi.views.ClipViewPager
+        android:id="@+id/viewpager"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        app:layout_heightPercent="99%w"
+        app:layout_widthPercent="55.5%w"
+        android:layout_centerInParent="true"
+        android:clipChildren="false"
+        android:overScrollMode="never" />
+    
+    <com.hn.linzi.views.PercentRelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        app:layout_heightPercent="7.8%h"
+        android:layout_alignParentBottom="true"
+        android:gravity="center" >
+        
+        <TextView 
+            android:id="@+id/changebg_ok"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_marginTop="5dp"
+            android:layout_marginBottom="5dp"
+            app:layout_widthPercent="91.1%w"
+            android:text="使用此背景"
+            android:gravity="center"
+            android:textColor="#FFFFFF"
+            android:textSize="18sp"
+            android:background="@drawable/huodong_signupbtn" />
+    </com.hn.linzi.views.PercentRelativeLayout>
+
+</com.hn.linzi.views.PercentRelativeLayout>

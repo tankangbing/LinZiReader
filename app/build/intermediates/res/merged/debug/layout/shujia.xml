@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#95a5a6" >
+
+    <RelativeLayout
+        android:id="@+id/btn1"
+        android:layout_width="wrap_content"
+        android:layout_height="0dp"
+        android:paddingLeft="15dp"
+        android:paddingTop="15dp"
+        android:layout_weight="1"
+        android:gravity="center" >
+
+        <ImageButton
+            android:id="@+id/bookImg1"
+            android:layout_width="100dp"
+            android:layout_height="150dp" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_toRightOf="@id/bookImg1"
+            android:orientation="vertical"
+            android:padding="10dp" >
+
+            <TextView
+                android:id="@+id/bookTitle1"
+                android:layout_width="wrap_content"
+                android:layout_height="0dp"
+                android:layout_weight="1"
+                android:text="标题1"
+                android:gravity="center_vertical" />
+
+            <TextView
+                android:id="@+id/bookZuozhe1"
+                android:layout_width="wrap_content"
+                android:layout_height="0dp"
+                android:layout_weight="1"
+                android:text="作者：XXX"
+                android:gravity="center_vertical" />
+            
+            <TextView
+                android:id="@+id/bookJianjie1"
+                android:layout_width="wrap_content"
+                android:layout_height="0dp"
+                android:layout_weight="1"
+                android:lines="3"
+                android:ellipsize="end"
+                android:gravity="center_vertical"
+                android:text="大手大脚卡上的看哈撒谎都看啥看的是的客户撒客户打开撒谎大家看撒谎大首都师大是的第三方都是范德萨防守队佛挡杀佛都是佛挡杀佛第三方都是客户" />
+        </LinearLayout>
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/btn2"
+        android:layout_width="wrap_content"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:paddingLeft="15dp"
+        android:paddingTop="15dp"
+        android:gravity="center" >
+
+        <ImageButton
+            android:id="@+id/bookImg2"
+            android:layout_width="100dp"
+            android:layout_height="150dp" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_toRightOf="@id/bookImg2"
+            android:orientation="vertical"
+            android:padding="10dp" >
+
+            <TextView
+                android:id="@+id/bookTitle2"
+                android:layout_width="wrap_content"
+                android:layout_height="0dp"
+                android:layout_weight="1"
+                android:text="标题2"
+                android:gravity="center_vertical" />
+
+            <TextView
+                android:id="@+id/bookZuozhe2"
+                android:layout_width="wrap_content"
+                android:layout_height="0dp"
+                android:layout_weight="1"
+                android:text="作者：XXX"
+                android:gravity="center_vertical" />
+            
+            <TextView
+                android:id="@+id/bookJianjie2"
+                android:layout_width="wrap_content"
+                android:layout_height="0dp"
+                android:layout_weight="1"
+                android:text="这本书是XXXXXXXX"
+                android:gravity="center_vertical" />
+        </LinearLayout>
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/btn3"
+        android:layout_width="wrap_content"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:paddingLeft="15dp"
+        android:paddingTop="15dp"
+        android:gravity="center" >
+
+        <ImageButton
+            android:id="@+id/bookImg3"
+            android:layout_width="100dp"
+            android:layout_height="150dp" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_toRightOf="@id/bookImg3"
+            android:orientation="vertical"
+            android:padding="10dp" >
+
+            <TextView
+                android:id="@+id/bookTitle3"
+                android:layout_width="wrap_content"
+                android:layout_height="0dp"
+                android:layout_weight="1"
+                android:text="标题3"
+                android:gravity="center_vertical" />
+
+            <TextView
+                android:id="@+id/bookZuozhe3"
+                android:layout_width="wrap_content"
+                android:layout_height="0dp"
+                android:layout_weight="1"
+                android:text="作者：XXX"
+                android:gravity="center_vertical" />
+            
+            <TextView
+                android:id="@+id/bookJianjie3"
+                android:layout_width="wrap_content"
+                android:layout_height="0dp"
+                android:layout_weight="1"
+                android:text="这本书是XXXXXXXX"
+                android:gravity="center_vertical" />
+        </LinearLayout>
+    </RelativeLayout>
+
+</LinearLayout>

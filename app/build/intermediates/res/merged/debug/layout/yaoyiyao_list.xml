@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/yaoyiyao_bg"
+    android:layout_width="match_parent"
+    android:layout_height="60dp"
+    android:clickable="true"
+    android:focusable="true"
+    android:orientation="horizontal" 
+    android:background="@drawable/yaoyiyao_item_bg">
+
+    <TextView
+        android:id="@+id/yaoyiyao_type"
+        android:layout_width="60dp"
+        android:layout_height="wrap_content"
+        android:clickable="false"
+        android:focusable="false"
+        android:padding="10dp"
+        android:text="分类大全"
+        android:gravity="center"
+        android:textColor="#FFFFFF"
+        android:textSize="16sp" />
+
+    <TextView
+        android:id="@+id/yaoyiyao_name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:clickable="false"
+        android:focusable="false"
+        android:padding="10dp"
+        android:textColor="#FFFFFF"
+        android:layout_gravity="center_vertical"
+        android:text="名字"
+        android:textSize="18sp" />
+
+</LinearLayout>

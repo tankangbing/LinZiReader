@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<color name="colorPrimary">#02cea8</color>
+	<color name="colorPrimaryDark">#02cea8</color>
+	<color name="colorAccent">#FF4081</color>
+	<color name="title_transparent_black">#22000000</color>
+	<color name="light_black">#141414</color>
+	<color name="line_and_outline_grey">#d9d9d9</color>
+    <color name="border_text">#000000</color>
+    <color name="white">#ffffff</color>
+    <color name="result_view">#b0000000</color>
+    <color name="viewfinder_mask">#60000000</color>
+    <color name="possible_result_points">#c0ffff00</color>
+    <color name="gray">#808080</color>
+    <color name="gainsboro">#E9E9E9</color>
+	<color name="c1">#D65457</color>
+    <color name="c2">#90ADDA</color>
+	<color name="c3">#ECA799</color>
+	<color name="c4">#8DC7E1</color>
+	<color name="c5">#7491B2</color>
+	<color name="c6">#EDB9D2</color>
+	<color name="c7">#8FC7B6</color>
+	<color name="c8">#BDE0CE</color>
+	<color name="c9">#CCD37B</color>
+	<color name="c10">#F3DAB8</color>
+	<color name="c11">#EE8F86</color>
+	<color name="c12">#E16B4F</color>
+	<color name="c13">#35ABA4</color>
+	<color name="c14">#9CD5E0</color>
+	<color name="c15">#DF6A9F</color>
+	
+	<drawable name="pressed">#8b898e</drawable>
+    <drawable name="green">#00ff00</drawable>
+    <color name="black">#000000</color>
+    <color name="bookmark1">#ff0000</color>
+</resources>

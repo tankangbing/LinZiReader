@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical" >
+    
+	<RelativeLayout 
+	    android:layout_width="match_parent"
+	    android:layout_height="wrap_content"
+	    android:layout_marginTop="5dp"
+	    android:paddingLeft="20dp"
+	    android:paddingRight="20dp">
+	    
+	    <ImageView 
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:src="@drawable/yonghutouxiang"
+	        android:layout_alignParentLeft="true"
+	        android:id="@+id/comment_icon"/>
+	    
+	    <TextView 
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:id="@+id/comment_author"
+	        android:textColor="#FFFFFF"
+	        android:layout_marginLeft="5dp"
+	        android:layout_toRightOf="@id/comment_icon"/>
+	    
+	    <ImageButton 
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:background="@drawable/comment_delete"
+	        android:layout_alignParentRight="true"
+	        android:id="@+id/comment_delete" />
+	    
+	</RelativeLayout>
+	
+	<TextView 
+	    android:layout_marginTop="5dp"
+	    android:layout_width="match_parent"
+	    android:layout_height="wrap_content"
+	    android:id="@+id/comment_content"
+	    android:textColor="#FFFFFF"
+	    android:layout_marginLeft="20dp"
+	    android:layout_marginRight="20dp"/>
+	
+<!-- 	<LinearLayout
+	    android:layout_width="match_parent"
+	    android:layout_height="wrap_content"
+	    android:orientation="horizontal"
+	    android:layout_marginTop="5dp"
+	    android:gravity="center_horizontal"
+	    android:id="@+id/comment_imglayout" >
+	    
+	    <ImageView 
+	        android:layout_width="141px"
+	        android:layout_height="141px"
+	        android:id="@+id/comment_img1"
+	        android:scaleType="fitXY"/>
+	    
+	    <ImageView 
+	        android:layout_width="141px"
+	        android:layout_height="141px"
+	        android:layout_marginLeft="22px"
+	        android:id="@+id/comment_img2"
+	        android:scaleType="fitXY"/>
+	    
+	    <ImageView 
+	        android:layout_width="141px"
+	        android:layout_height="141px"
+	        android:layout_marginLeft="22px"
+	        android:id="@+id/comment_img3"
+	        android:scaleType="fitXY"/>
+	    
+	    <ImageView 
+	        android:layout_width="141px"
+	        android:layout_height="141px"
+	        android:layout_marginLeft="22px"
+	        android:id="@+id/comment_img4"
+	        android:scaleType="fitXY"/>
+	    
+	    <ImageView 
+	        android:layout_width="141px"
+	        android:layout_height="141px"
+	        android:layout_marginLeft="22px"
+	        android:id="@+id/comment_img5"
+	        android:scaleType="fitXY"/>
+	</LinearLayout> -->
+	
+	<com.hn.linzi.views.NoScrollGridView
+        android:id="@+id/comment_gridView"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:horizontalSpacing="22px"
+        android:numColumns="5"
+        android:stretchMode="columnWidth"
+        android:layout_marginTop="5dp"
+        android:verticalSpacing="1dp"
+        android:paddingLeft="20dp"
+	    android:paddingRight="20dp" />
+	
+	<RelativeLayout 
+	    android:layout_width="match_parent"
+	    android:layout_height="wrap_content"
+	    android:layout_marginTop="2dp"
+	    android:paddingLeft="20dp"
+	    android:paddingRight="20dp">
+	    
+	    <TextView 
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:id="@+id/comment_floor"
+	        android:textSize="12sp"
+	        android:textColor="#7FFFFFFF"
+	        android:layout_alignParentRight="true"/>
+	    
+	    <TextView 
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:id="@+id/comment_time"
+	        android:textSize="12sp"
+	        android:textColor="#7FFFFFFF"
+	        android:layout_marginRight="15dp"
+	        android:layout_toLeftOf="@id/comment_floor"/>
+	</RelativeLayout>
+	
+	<ImageView
+	    android:layout_width="match_parent"
+	    android:layout_height="1dp"
+	    android:layout_marginTop="1dp"
+	    android:background="#FFFFFF"
+	    android:layout_marginLeft="20dp"
+	    android:layout_marginRight="20dp" />
+</LinearLayout>

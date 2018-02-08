@@ -1,0 +1,394 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/activity_bg">
+    <RelativeLayout
+        android:id="@+id/xiaoxi_title"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/daohanglan" >
+
+        <TextView
+            android:id="@+id/daohanglan"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_centerVertical="true"
+            android:textColor="#FFFFFF"
+            android:textSize="20sp"
+            android:text="测量血压"/>
+
+        <Button
+            android:id="@+id/measure_back"
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:layout_alignParentLeft="true"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="20dp"
+            android:background="@drawable/fanhui" />
+    </RelativeLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="15dp"
+        android:layout_marginTop="10dp"
+        android:orientation="horizontal"
+        >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="当前日期:"
+            android:textColor="#fff"
+            android:textSize="20dp"/>
+
+        <TextView
+            android:id="@+id/tv_mreasure_day"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="5dp"
+            android:background="#10000000"
+            android:clickable="true"
+            android:gravity="center"
+            android:padding="5dp"
+            android:textColor="#fff"
+            android:textSize="20dp"/>
+
+        <TextView
+            android:id="@+id/tv_mreasure_time"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="5dp"
+            android:background="#10000000"
+            android:clickable="true"
+            android:gravity="center"
+            android:padding="5dp"
+            android:textColor="#fff"
+            android:textSize="20dp"
+            />
+    </LinearLayout>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="15dp"
+        android:text="第一次测量"
+        android:textSize="20dp"
+        android:layout_marginTop="15dp"
+        android:textColor="#fff"
+        android:gravity="center"/>
+
+    <!-- 表格布局：第一行 -->
+    <TableRow
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft = "20dp"
+        android:layout_marginRight="20dp"
+        android:layout_marginTop="10dp"
+        android:background="@drawable/shape_top_corner_no_bottom_line"
+        android:padding="8dp" >
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:layout_marginRight="10dp"
+            android:text="收缩压"
+            android:textColor="#f9a970"
+            android:textSize="17dp">
+        </TextView>
+
+        <EditText
+            android:id="@+id/edt_height_handed"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:layout_weight="1"
+            android:background="#10000000"
+            android:maxLength="3"
+            android:numeric="integer"
+            android:textColor="#fff"
+            android:gravity="center">
+        </EditText>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:layout_marginRight="10dp"
+            android:text="(mmHg)"
+            android:textColor="#fff"
+            android:textSize="17dp"
+            >
+        </TextView>
+    </TableRow>
+
+
+    <!-- 表格布局：第二行 -->
+    <TableRow
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft = "20dp"
+        android:layout_marginRight="20dp"
+        android:background="@drawable/shape_no_corner_without_bottom"
+        android:padding="8dp" >
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:layout_marginRight="10dp"
+            android:text="舒张压"
+            android:textColor="#2fd4b1"
+            android:textSize="17dp">
+        </TextView>
+
+        <EditText
+            android:id="@+id/edt_low_handed"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:layout_weight="1"
+            android:background="#10000000"
+            android:singleLine="true"
+            android:maxLength="3"
+            android:gravity="center"
+            android:textColor="#fff"
+            android:numeric="integer">
+
+        </EditText>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:layout_marginRight="10dp"
+            android:text="(mmHg)"
+            android:textColor="#fff"
+            android:textSize="17dp"
+            >
+        </TextView>
+    </TableRow>
+
+    <!-- 表格布局：第三行 -->
+    <TableRow
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:background="@drawable/shape_bottom_corner_no_top_line"
+        android:padding="8dp">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:layout_marginRight="10dp"
+            android:text="心率"
+            android:textColor="#fd517c"
+            android:textSize="17dp">
+        </TextView>
+
+        <EditText
+            android:id="@+id/edt_pules"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:layout_marginLeft="17dp"
+            android:layout_weight="1"
+            android:background="#10000000"
+            android:gravity="center"
+            android:maxLength="3"
+            android:textColor="#fff"
+            android:numeric="integer"
+            android:singleLine="true">
+
+        </EditText>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:layout_marginRight="10dp"
+            android:text="(次/分钟)"
+            android:textColor="#fff"
+            android:textSize="17dp"
+            >
+        </TextView>
+    </TableRow>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="15dp"
+        android:text="第二次测量"
+        android:textSize="20dp"
+        android:gravity="center"
+        android:textColor="#fff"
+        android:layout_marginTop="15dp"/>
+
+    <!-- 表格布局：第一行 -->
+    <TableRow
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft = "20dp"
+        android:layout_marginRight="20dp"
+        android:layout_marginTop="10dp"
+        android:background="@drawable/shape_top_corner_no_bottom_line"
+        android:padding="8dp" >
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:layout_marginRight="10dp"
+            android:text="收缩压"
+            android:textColor="#f9a970"
+            android:textSize="17dp">
+        </TextView>
+
+        <EditText
+            android:id="@+id/edt_height_handedtwo"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:layout_weight="1"
+            android:background="@null"
+            android:singleLine="true"
+            android:maxLength="3"
+            android:gravity="center"
+            android:textColor="#fff"
+            android:numeric="integer">
+
+        </EditText>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:layout_marginRight="10dp"
+            android:text="(mmHg)"
+            android:textColor="#fff"
+            android:textSize="17dp"
+            >
+        </TextView>
+    </TableRow>
+    <!-- 表格布局：第二行 -->
+    <TableRow
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft = "20dp"
+        android:layout_marginRight="20dp"
+        android:background="@drawable/shape_no_corner_without_bottom"
+        android:padding="8dp" >
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:layout_marginRight="10dp"
+            android:text="舒张压"
+            android:textColor="#2fd4b1"
+            android:textSize="17dp">
+        </TextView>
+
+        <EditText
+            android:id="@+id/edt_low_handedtwo"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:layout_weight="1"
+            android:background="@null"
+            android:singleLine="true"
+            android:maxLength="3"
+            android:gravity="center"
+            android:textColor="#fff"
+            android:numeric="integer">
+
+        </EditText>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:layout_marginRight="10dp"
+            android:text="(mmHg)"
+            android:textColor="#fff"
+            android:textSize="17dp"
+            >
+        </TextView>
+    </TableRow>
+    <!-- 表格布局：第三行 -->
+    <TableRow
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft = "20dp"
+        android:layout_marginRight="20dp"
+        android:background="@drawable/shape_bottom_corner_no_top_line"
+        android:padding="8dp" >
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:layout_marginRight="10dp"
+            android:text="心率"
+            android:textColor="#fd517c"
+            android:textSize="17dp">
+        </TextView>
+
+        <EditText
+            android:id="@+id/edt_pulestwo"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:layout_marginLeft="17dp"
+            android:layout_weight="1"
+            android:background="@null"
+            android:singleLine="true"
+            android:maxLength="3"
+            android:gravity="center"
+            android:textColor="#fff"
+            android:numeric="integer">
+
+        </EditText>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:layout_marginRight="10dp"
+            android:text="(次/分钟)"
+            android:textColor="#fff"
+            android:textSize="17dp"
+            >
+        </TextView>
+    </TableRow>
+
+    <!--<EditText-->
+        <!--android:id="@+id/edt_remark"-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:layout_marginLeft="20dp"-->
+        <!--android:layout_marginRight="20dp"-->
+        <!--android:hint="备注"-->
+        <!--android:paddingTop="10dp"-->
+        <!--android:singleLine="true"-->
+        <!--android:textColor="#000"-->
+        <!--/>-->
+
+    <Button
+        android:id="@+id/tv_mreasure_save"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:layout_marginTop="12dp"
+        android:clickable="true"
+        android:gravity="center"
+        android:text="确认数据"
+        android:textSize="20dp"
+        android:textColor="#fff"
+        android:background="#10000000"
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:textColor="#f1a97d"
+        android:layout_marginTop="8dp"
+        android:text="温馨提示：每次测量2次！！！！"/>
+</LinearLayout>

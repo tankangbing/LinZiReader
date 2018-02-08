@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="5dp"
+        android:orientation="horizontal"
+        >
+
+        <RelativeLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:gravity="center"
+            >
+
+            <TextView
+                android:id="@+id/tv_view_day"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="2017-05-22"
+                android:textColor="#fff"
+                android:textSize="17dp"/>
+
+            <TextView
+                android:id="@+id/tv_view_time"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_toRightOf="@id/tv_view_day"
+                android:layout_centerHorizontal="true"
+                android:layout_marginLeft="5dp"
+                android:text="17:00"
+                android:textColor="#fff"
+                android:textSize="17dp"/>
+
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_weight="1"
+            android:gravity="center"
+            >
+
+            <TextView
+                android:id="@+id/tv_view_hight"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="230/"
+                android:textColor="#fff"
+                android:textSize="17dp"/>
+
+            <TextView
+                android:id="@+id/tv_view_low"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_toRightOf="@+id/tv_view_hight"
+                android:text="35"
+                android:textColor="#fff"
+                android:textSize="17dp"/>
+
+        </RelativeLayout>
+
+        <TextView
+            android:id="@+id/tv_view_pules"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:text="130"
+            android:textColor="#fff"
+            android:textSize="17dp"/>
+
+        <!--<TextView-->
+            <!--android:id="@+id/tv_view_remark"-->
+            <!--android:layout_width="0dp"-->
+            <!--android:layout_height="match_parent"-->
+            <!--android:layout_weight="1"-->
+            <!--android:gravity="center"-->
+            <!--android:singleLine="true"-->
+            <!--android:textColor="#000"-->
+            <!--android:textSize="17dp"/>-->
+    </LinearLayout>
+
+
+
+
+
+
+    <!--<LinearLayout-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:orientation="horizontal"-->
+        <!--android:padding="10dp"-->
+        <!--&gt;-->
+
+        <!--<TextView-->
+            <!--android:id="@+id/tv_view_day"-->
+            <!--android:layout_width="wrap_content"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:layout_marginLeft="15dp"-->
+            <!--android:textSize="20dp"-->
+            <!--android:text="2017-06-11"-->
+            <!--android:textColor="#696969"/>-->
+
+        <!--<TextView-->
+            <!--android:id="@+id/tv_view_time"-->
+            <!--android:layout_width="wrap_content"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:layout_marginLeft="20dp"-->
+            <!--android:textSize="20dp"-->
+            <!--android:text="12:02"-->
+            <!--android:textColor="#696969"/>-->
+    <!--</LinearLayout>-->
+    <!--<LinearLayout-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:orientation="vertical"-->
+        <!--android:background="#fff">-->
+        <!--<LinearLayout-->
+            <!--android:layout_width="match_parent"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:layout_marginLeft="10dp"-->
+            <!--android:padding="5dp"-->
+            <!--android:orientation="horizontal">-->
+
+            <!--<LinearLayout-->
+                <!--android:layout_width="0dp"-->
+                <!--android:layout_weight="1"-->
+                <!--android:layout_height="wrap_content"-->
+
+                <!--android:orientation="horizontal">-->
+                <!--<TextView-->
+                    <!--android:layout_width="wrap_content"-->
+                    <!--android:layout_height="wrap_content"-->
+                    <!--android:textSize="17dp"-->
+                    <!--android:text="收缩压："-->
+                    <!--android:textColor="#505050"-->
+                    <!--/>-->
+                <!--<TextView-->
+                    <!--android:id="@+id/tv_view_hight"-->
+                    <!--android:layout_width="wrap_content"-->
+                    <!--android:layout_height="wrap_content"-->
+                    <!--android:textSize="18dp"-->
+                    <!--android:text="120"-->
+                    <!--android:textColor="#ffcd42"/>-->
+            <!--</LinearLayout>-->
+
+            <!--<LinearLayout-->
+                <!--android:layout_width="0dp"-->
+                <!--android:layout_weight="1"-->
+                <!--android:layout_height="wrap_content"-->
+                <!--android:orientation="horizontal">-->
+                <!--<TextView-->
+                    <!--android:layout_width="wrap_content"-->
+                    <!--android:layout_height="wrap_content"-->
+                    <!--android:textSize="17dp"-->
+                    <!--android:textColor="#505050"-->
+                    <!--android:text="舒张压："/>-->
+                <!--<TextView-->
+                    <!--android:id="@+id/tv_view_low"-->
+                    <!--android:layout_width="wrap_content"-->
+                    <!--android:layout_height="wrap_content"-->
+                    <!--android:textSize="18dp"-->
+                    <!--android:textColor="#0c9df5"-->
+                    <!--android:text="80"/>-->
+            <!--</LinearLayout>-->
+            <!--<LinearLayout-->
+                <!--android:layout_width="0dp"-->
+                <!--android:layout_weight="1"-->
+                <!--android:layout_height="wrap_content"-->
+                <!--android:orientation="horizontal">-->
+                <!--<TextView-->
+                    <!--android:layout_width="wrap_content"-->
+                    <!--android:layout_height="wrap_content"-->
+                    <!--android:textColor="#505050"-->
+                    <!--android:textSize="17dp"-->
+                    <!--android:text="心率："/>-->
+                <!--<TextView-->
+                    <!--android:id="@+id/tv_view_pules"-->
+                    <!--android:layout_width="wrap_content"-->
+                    <!--android:layout_height="wrap_content"-->
+                    <!--android:textColor="#aa64da"-->
+                    <!--android:textSize="18dp"-->
+                    <!--android:text="88"/>-->
+            <!--</LinearLayout>-->
+
+        <!--</LinearLayout>-->
+        <!--<TextView-->
+            <!--android:id="@+id/tv_view_remark"-->
+            <!--android:layout_width="match_parent"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:layout_marginLeft="10dp"-->
+            <!--android:padding="10dp"-->
+            <!--android:textColor="#696969"-->
+            <!--android:textSize="18dp"-->
+            <!--android:text="医嘱："/>-->
+    <!--</LinearLayout>-->
+</LinearLayout>
